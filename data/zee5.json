@@ -1,0 +1,64 @@
+{
+  "Author": "DOCTOR STRANGE",
+  "name": "ZEE5 Live  API",
+  "last_updated": "09:34:20 PM 13-12-2025",
+  "headers": {
+    "User-Agent": "okhttp/4.12.0",
+    "Referer": "https://www.zee5.com/",
+    "Origin": "https://www.zee5.com"
+  },
+  "matches": [
+    {
+      "id": "0-1-6z5853065",
+      "title": "ADKR Vs DC",
+      "description": "Watch the live stream of the 13th match of the ongoing DP World ILT20 Season 4 between AD Knight Riders and Dubai Capitals",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "DP World ILT20",
+      "releaseDate": "2025-12-13",
+      "languages": "hindi",
+      "audioLanguages": "hindi",
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853065/list/1920x1080listc69f4d5128aa4b7e85826c8be5a70e6e66f78d4f359f41029feca1459065bdea.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853065/cover/1920x770a0a10b6504d243cdac25054fd12b72219eee02009a26490f9f56bae19c97fbf9.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853065/appCover/1920x1080appcover8c585ca3d0574c12b4c6ac8ac04dcef81d9eea5a62c14c3cbb3588f7ca67d7bf.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853065/sticker/1920x457401abd0e2eda4628ba1f4a61ec083707febe68dca0c04fea86218807dd64f10f.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853065/verticalBanner/845x108044e65761eb62473ebaa392b6278ec976a0b13a98432444be856796c4de826cda.jpg"
+      },
+      "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2109037/ADKRVSDCM13/index-connected.m3u8",
+      "COOKIE": "hdntl=exp=1765727124~acl=%2f*~data=hdntl~hmac=1bf7b75a0cab19a7bc462bcf457b0ab92d1ee641f67cf816e3e8cbde142c1a8c"
+    },
+    {
+      "id": "0-1-6z5852982",
+      "title": "Mumbai Vs Middle East",
+      "description": "Watch the live stream of the 20th match of the ongoing Baseball United - Season 1 between Mumbai Vs Middle East.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2025-12-13",
+      "languages": "english",
+      "audioLanguages": "english",
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5852982/list/1920x1080listc1eb78af4f0646209f2eb8109f118dfd6feff7d3d1b5498db73be9bfef556bea.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5852982/cover/1920x770734ede1232484abb8c5a91797c6f8e4d47dd082481ea48f483c4085af1bcef34.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5852982/appCover/1920x1080appcoverb7e84777033d4b3a8397b4f353dde5a1f93fc56e129d4061bfff649efa7321ac.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5852982/sticker/1920x457c21f34214ea448b9b0e71c2907e6b521b4bdaf3f76a546319f9a3826ee62f39c.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5852982/verticalBanner/845x1080654b01fe72bb4654b7ad6a9ecdcf337bc40391ad518b4ef1b5a3c3302ce4ad41.jpg"
+      },
+      "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2109039/BSEBALL2025/index-connected.m3u8",
+      "COOKIE": "hdntl=exp=1765727125~acl=%2f*~data=hdntl~hmac=1253a854b1114b4e1e26e8e2eadc2f6065c0d28ea88b17c2b0626d2d82c0f6d6"
+    }
+  ]
+}
