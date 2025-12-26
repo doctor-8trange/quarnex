@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:15:01 PM 26-12-2025",
+  "last_updated": "06:15:58 PM 26-12-2025",
   "matches": [
     {
       "id": "0-1-6z5882427",
@@ -32,12 +32,10 @@
       },
       "STREAMING_CDN": {
         "hindi": {
-          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8",
-          "COOKIE": "hdntl=exp=1766836805~acl=%2f*~data=hdntl~hmac=71daed8ee8f4dcf8838988adaaa02962c086a2652ddb836d5463a09150f49d1d"
+          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8"
         },
         "english": {
-          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8",
-          "COOKIE": "hdntl=exp=1766836808~acl=%2f*~data=hdntl~hmac=d5353c1a5eb77973d9db3cf6c0ed2a05538346abb44e7d9567426286392af093"
+          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8"
         }
       }
     }
