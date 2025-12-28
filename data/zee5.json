@@ -1,0 +1,76 @@
+{
+  "Author": "DOCTOR STRANGE",
+  "name": "ZEE5 Live API",
+  "last_updated": "06:50:20 PM 28-12-2025",
+  "matches": [
+    {
+      "id": "0-1-6z5882427",
+      "title": "Uttar Pradesh Kabaddi League Season 2",
+      "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+      "genres": [
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2025-12-28",
+      "languages": "hindi",
+      "audioLanguages": [
+        "hi",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list02c4be8db92a478286f051fceea5f9cbcfdc26c6c7894edeac295826673d4402.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x7701c2aeac1cfdf4bcf8e78944c805000b9748cd4a83ea540619c8d3adff68078e9.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcovercc599cb4843b42b59a8314e649427884fae27a188a6d4e60861f126c4d9e57dc.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x1080cc155a0cbf2546a1a537f4306b552c5151b73c9575fd4c868acd5e485dcd61e1.jpg"
+      },
+      "STREAMING_CDN": {
+        "hindi": {
+          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/index-connected.m3u8"
+        },
+        "english": {
+          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/index-connected.m3u8"
+        }
+      }
+    },
+    {
+      "id": "0-1-6z5884825",
+      "title": "Kabaddi Champions League Auction",
+      "description": "Watch the ultimate kabaddi face-off with the Kabaddi Champions League Auction! See how teams complete their squads, who gets the highest bid, and who stays unsold despite all the action for KCL 2026.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2025-12-28",
+      "languages": "hindi",
+      "audioLanguages": [
+        "hi"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/list/1920x1080list4f0a28b0edbd4c1691bf1644fca56f48036a5c7e147c47ec89e2883ff4f25f57.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/cover/1920x770c5f66ccae6c84c7396e4b4176f1102e77e359f227eaa4ae48851c4c5293d69b6.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/appCover/1920x1080appcover301791755892408c97ef0040acf3eb125e7154ad527f46b7a1b2e7d535481c5d.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/sticker/1920x4570f015845d2944a28a9d18e39fbc7cc72be0f2f40a50a4338980a33fcaf938f09.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/verticalBanner/845x1080fb6d3b682b3c43e6b790be343d8abf079916b4e84cec495aa356f81cfacaade2.jpg"
+      },
+      "STREAMING_CDN": {
+        "hindi": {
+          "PLAYBACK_URL": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AUCTION-LIVE-EVENT/index-connected/index-connected.m3u8"
+        }
+      }
+    }
+  ]
+}
