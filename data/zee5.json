@@ -1,74 +1,163 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:56:05 PM 28-12-2025",
+  "last_updated": "02:36:55 PM 29-12-2025",
+  "app_settings": {
+    "PROXY": "OFF",
+    "state_code": "BR",
+    "MULTI_CDN": "ON",
+    "Debugging": "ON",
+    "SUB_TYPE": "FREEMIUM",
+    "RECIVER": "OFF",
+    "REALTIME": "ON",
+    "REPLACEMENT": "OFF",
+    "FREEPREVIEW": "AUTO",
+    "HMAC_PROXY": "ON",
+    "ALL_IN_ONE": "ON",
+    "USAGE_GUIDE": []
+  },
   "matches": [
     {
-      "id": "0-1-6z5882427",
-      "title": "Uttar Pradesh Kabaddi League Season 2",
-      "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+      "id": "0-1-6z5873794",
+      "title": "Fc Medinipur Vs Jhr Royal City Fc Malda",
+      "description": "Watch the live stream of the 21st match of the ongoing The Bengal Super League between Fc Medinipur and Jhr Royal City Fc Malda.",
       "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
         {
           "id": "Event",
           "value": "Event"
         },
         {
-          "id": "Sports",
-          "value": "Sports"
+          "id": "Action",
+          "value": "Action"
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2025-12-28",
-      "languages": "hindi",
+      "releaseDate": "2025-12-29",
+      "languages": [
+        "bengali",
+        "english"
+      ],
       "audioLanguages": [
-        "hi",
+        "bn",
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list02c4be8db92a478286f051fceea5f9cbcfdc26c6c7894edeac295826673d4402.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x7701c2aeac1cfdf4bcf8e78944c805000b9748cd4a83ea540619c8d3adff68078e9.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcovercc599cb4843b42b59a8314e649427884fae27a188a6d4e60861f126c4d9e57dc.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x1080cc155a0cbf2546a1a537f4306b552c5151b73c9575fd4c868acd5e485dcd61e1.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873794/list/1920x1080list47e9a20ee2c648c19aebf7c4b8453aa52c98d4dc7efa4f7187eb1d6dfb7bcb12.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873794/cover/1920x7706fdb90ab7cf64ba1961e548599840e76d9408fd508c1498e879533608b401cf6.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873794/appCover/1920x1080appcover251a14454f4c4dbb8f97c705dead8d7babd3c09c965b489e9d4605cf288ba2f7.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873794/sticker/1920x4579856f2a0cabf48cf8c5480dd0ea14b84a2ef11c216df48fa98d2980369b7cdd9.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873794/verticalBanner/845x10807c247290cf6d4e33842e45aa4fc5529ceb27bf5969b8471ea2db52ee1ab5b275.jpg"
       },
-      "STREAMING_CDN": {
-        "hindi": {
-          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/index-connected.m3u8"
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873794",
+              "title": "Fc Medinipur Vs Jhr Royal City Fc Malda",
+              "description": "Watch the live stream of the 21st match of the ongoing The Bengal Super League between Fc Medinipur and Jhr Royal City Fc Malda.",
+              "short_desc": "Watch the live stream of the 21st match of the ongoing The Bengal Super League between Fc Medinipur and Jhr Royal City Fc Malda.",
+              "release_date": "2025-12-29T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 21,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873794/list/270x152/1920x1080list47e9a20ee2c648c19aebf7c4b8453aa52c98d4dc7efa4f7187eb1d6dfb7bcb12.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873794/portrait/720x1080withlogoefe8c6ee9f3045399cfabde287b4c6c3bcb8fe4eec8347cfbfbc34013d053cac.jpg",
+              "banner_tv": "3840x2160tvbanner7206b46e7a40488a98075e073e8397417bb88ddd709c4e379e432fec00e008f8",
+              "square_icon": "",
+              "list_view": "1920x1080list47e9a20ee2c648c19aebf7c4b8453aa52c98d4dc7efa4f7187eb1d6dfb7bcb12.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "29-12-2025 12:45:05 PM"
+            }
+          },
+          "originPlaybackUrl": {
+            "status": "active",
+            "expires_at": "2025-12-29 15:01:53",
+            "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/index.m3u8?hdnts=st=1766997713~exp=1767000713~acl=/cmaf/live/2122014/BSL-BEN-M01/index.m3u8*~hmac=8ac2b6d0601ffaf8cbe95f61234dcda2abbc9bfe0457e6af2a0dda9048d8e564&req_id=72d84811-7664-4a1a-a493-38315d7d3c29"
+          }
         },
         "english": {
-          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/index-connected.m3u8"
-        }
-      }
-    },
-    {
-      "id": "0-1-6z5884825",
-      "title": "Kabaddi Champions League Auction",
-      "description": "Watch the ultimate kabaddi face-off with the Kabaddi Champions League Auction! See how teams complete their squads, who gets the highest bid, and who stays unsold despite all the action for KCL 2026.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2025-12-28",
-      "languages": "hindi",
-      "audioLanguages": [
-        "hi"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/list/1920x1080list4f0a28b0edbd4c1691bf1644fca56f48036a5c7e147c47ec89e2883ff4f25f57.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/cover/1920x770c5f66ccae6c84c7396e4b4176f1102e77e359f227eaa4ae48851c4c5293d69b6.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/appCover/1920x1080appcover301791755892408c97ef0040acf3eb125e7154ad527f46b7a1b2e7d535481c5d.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/sticker/1920x4570f015845d2944a28a9d18e39fbc7cc72be0f2f40a50a4338980a33fcaf938f09.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5884825/verticalBanner/845x1080fb6d3b682b3c43e6b790be343d8abf079916b4e84cec495aa356f81cfacaade2.jpg"
-      },
-      "STREAMING_CDN": {
-        "hindi": {
-          "PLAYBACK_URL": "https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/AUCTION-LIVE-EVENT/index-connected/index-connected.m3u8"
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873794",
+              "title": "Fc Medinipur Vs Jhr Royal City Fc Malda",
+              "description": "Watch the live stream of the 21st match of the ongoing The Bengal Super League between Fc Medinipur and Jhr Royal City Fc Malda.",
+              "short_desc": "Watch the live stream of the 21st match of the ongoing The Bengal Super League between Fc Medinipur and Jhr Royal City Fc Malda.",
+              "release_date": "2025-12-29T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 21,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873794/list/270x152/1920x1080list47e9a20ee2c648c19aebf7c4b8453aa52c98d4dc7efa4f7187eb1d6dfb7bcb12.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873794/portrait/720x1080withlogoefe8c6ee9f3045399cfabde287b4c6c3bcb8fe4eec8347cfbfbc34013d053cac.jpg",
+              "banner_tv": "3840x2160tvbanner7206b46e7a40488a98075e073e8397417bb88ddd709c4e379e432fec00e008f8",
+              "square_icon": "",
+              "list_view": "1920x1080list47e9a20ee2c648c19aebf7c4b8453aa52c98d4dc7efa4f7187eb1d6dfb7bcb12.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "29-12-2025 12:45:05 PM"
+            }
+          },
+          "originPlaybackUrl": {
+            "status": "active",
+            "expires_at": "2025-12-29 15:01:55",
+            "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/index.m3u8?hdnts=st=1766997715~exp=1767000715~acl=/cmaf/live/2122013/BSL-ENG-M01/index.m3u8*~hmac=73355249fe5369511ec5b8e20217ddab3b1695c83d3d7b4cfdbfa0c4ec4e1f4a&req_id=e0f0a257-b1f7-429b-81aa-d85a99cef9d4"
+          }
         }
       }
     }
