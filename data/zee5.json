@@ -1,12 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "02:41:45 PM 29-12-2025",
-  "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
-    "Referer": "https://www.zee5.com/",
-    "Origin": "https://www.zee5.com"
-  },
+  "last_updated": "02:58:21 PM 29-12-2025",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -61,7 +56,6 @@
         "bengali": {
           "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
-          "cookie": "hdntl=exp=1767085613~acl=%2f*~data=hdntl~hmac=12e313918cea61598a3f613d5d17e594ea713a622b59a4b4af657079a2f48f9b",
           "playbackDetail": {
             "basicInfo": {
               "id": "0-1-6z5873794",
@@ -105,17 +99,11 @@
               "user_published": "Prathamesh Gondhalkar",
               "publish_time": "29-12-2025 12:45:05 PM"
             }
-          },
-          "originPlaybackUrl": {
-            "status": "active",
-            "expires_at": "2025-12-29 15:01:53",
-            "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/index.m3u8?hdnts=st=1766997713~exp=1767000713~acl=/cmaf/live/2122014/BSL-BEN-M01/index.m3u8*~hmac=8ac2b6d0601ffaf8cbe95f61234dcda2abbc9bfe0457e6af2a0dda9048d8e564&req_id=72d84811-7664-4a1a-a493-38315d7d3c29"
           }
         },
         "english": {
           "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
-          "cookie": "hdntl=exp=1767085615~acl=%2f*~data=hdntl~hmac=8b517695cafbffadc0033f61fbc0ede50606880a03ab6ba0e0ec5b56b9daf24c",
           "playbackDetail": {
             "basicInfo": {
               "id": "0-1-6z5873794",
@@ -159,22 +147,7 @@
               "user_published": "Prathamesh Gondhalkar",
               "publish_time": "29-12-2025 12:45:05 PM"
             }
-          },
-          "originPlaybackUrl": {
-            "status": "active",
-            "expires_at": "2025-12-29 15:01:55",
-            "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/index.m3u8?hdnts=st=1766997715~exp=1767000715~acl=/cmaf/live/2122013/BSL-ENG-M01/index.m3u8*~hmac=73355249fe5369511ec5b8e20217ddab3b1695c83d3d7b4cfdbfa0c4ec4e1f4a&req_id=e0f0a257-b1f7-429b-81aa-d85a99cef9d4"
           }
-        }
-      },
-      "STREAMING_CDN": {
-        "bengali": {
-          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
-          "COOKIE": "hdntl=exp=1767085613~acl=%2f*~data=hdntl~hmac=12e313918cea61598a3f613d5d17e594ea713a622b59a4b4af657079a2f48f9b"
-        },
-        "english": {
-          "PLAYBACK_URL": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
-          "COOKIE": "hdntl=exp=1767085615~acl=%2f*~data=hdntl~hmac=8b517695cafbffadc0033f61fbc0ede50606880a03ab6ba0e0ec5b56b9daf24c"
         }
       }
     }
