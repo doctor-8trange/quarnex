@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "02:36:55 PM 29-12-2025",
+  "last_updated": "02:38:48 PM 29-12-2025",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -9,7 +9,7 @@
     "Debugging": "ON",
     "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "ON",
+    "REALTIME": "OFF",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "HMAC_PROXY": "ON",
