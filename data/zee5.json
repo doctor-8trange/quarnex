@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:49:02 PM 01-01-2026",
+  "last_updated": "05:04:07 PM 01-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,5 +16,135 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": []
+  "matches": [
+    {
+      "id": "0-1-6z5882427",
+      "title": "Uttar Pradesh Kabaddi League Season 2",
+      "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+      "genres": [
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-01",
+      "languages": [
+        "hindi",
+        "english"
+      ],
+      "audioLanguages": [
+        "hi",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080listad66b384c6b64aea873d9ad53d624d0df72d80e5f1f341ae881c11ed317842cc.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x7708de56032c03f445680ed1f1b88d41e8740835418cc6c44dd8fee5037b5bb0129.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcoverf3d8ed44d1764f9d9a289e5a342928ea6fbbb1bc1f55465f8107ea918c31fe57.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x1080b6cebd12821847119742f8d491de53328cac78b953224bb592c42883aee69de5.jpg"
+      },
+      "playback": {
+        "hindi": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5882427",
+              "title": "Uttar Pradesh Kabaddi League Season 2",
+              "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "short_desc": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "release_date": "2026-01-01T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Event",
+              "language_audio": [
+                "hi",
+                "en"
+              ],
+              "language_text": [
+                "hi",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5878943",
+              "order_id": 1,
+              "content_category": "Kabbadi",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080listad66b384c6b64aea873d9ad53d624d0df72d80e5f1f341ae881c11ed317842cc.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogod12e31eb511f40ca86d5ec259bf7d093998872e86eed4ac1939a877c4f15f453.jpg",
+              "banner_tv": "3840x2160tvbanner6a9c25828a4944dabd4e113438df4d061206cedfc3454125af5cf7f59893f8fe",
+              "square_icon": "",
+              "list_view": "1920x1080listad66b384c6b64aea873d9ad53d624d0df72d80e5f1f341ae881c11ed317842cc.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Sanjana Khanvil",
+              "publish_time": "01-01-2026 04:45:06 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5882427",
+              "title": "Uttar Pradesh Kabaddi League Season 2",
+              "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "short_desc": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "release_date": "2026-01-01T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Event",
+              "language_audio": [
+                "hi",
+                "en"
+              ],
+              "language_text": [
+                "hi",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5878943",
+              "order_id": 1,
+              "content_category": "Kabbadi",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080listad66b384c6b64aea873d9ad53d624d0df72d80e5f1f341ae881c11ed317842cc.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogod12e31eb511f40ca86d5ec259bf7d093998872e86eed4ac1939a877c4f15f453.jpg",
+              "banner_tv": "3840x2160tvbanner6a9c25828a4944dabd4e113438df4d061206cedfc3454125af5cf7f59893f8fe",
+              "square_icon": "",
+              "list_view": "1920x1080listad66b384c6b64aea873d9ad53d624d0df72d80e5f1f341ae881c11ed317842cc.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Sanjana Khanvil",
+              "publish_time": "01-01-2026 04:45:06 PM"
+            }
+          }
+        }
+      }
+    }
+  ]
 }
