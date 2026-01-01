@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "07:04:01 PM 01-01-2026",
+  "last_updated": "07:19:07 PM 01-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -141,6 +141,82 @@
               "dub_available": false,
               "user_published": "Sanjana Khanvil",
               "publish_time": "01-01-2026 04:45:06 PM"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0-1-6z5853049",
+      "title": "DC Vs ADKR - Eliminator",
+      "description": "Watch the live stream of the Eliminator match of the ongoing DP World ILT20 Season 4 between DC Vs ADKR.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "DP World ILT20",
+      "releaseDate": "2026-01-01",
+      "languages": [
+        "hindi"
+      ],
+      "audioLanguages": [
+        "hi"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853049/list/1920x1080list5d13c39f9b1a4e2db551b70ce5bb89b85ed1a6ad57e241bc8f0cc0302dc49b8a.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853049/cover/1920x770cd4c4ee8a6db416fb3ea88ee7a89c5d5b2bdd55d2d094e91baea32ae3b0a2c0a.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853049/appCover/1920x1080appcovere8b0bf15275942c2a4c6393e5b6d6aa4decb3c8622d245099efe3d364bf8e91a.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853049/sticker/1920x45782238ae77db34cc59f131d831b6eef540bab33f0764d41b0a7aceaefa270837e.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853049/verticalBanner/845x10803505d45b43c3471b96c957295bf1a5669fdd7b55a3b24073a69ad216248ebd88.jpg"
+      },
+      "playback": {
+        "hindi": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/ELIMINATOR/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5853049",
+              "title": "DC Vs ADKR - Eliminator",
+              "description": "Watch the live stream of the Eliminator match of the ongoing DP World ILT20 Season 4 between DC Vs ADKR.",
+              "short_desc": "Watch the live stream of the 32nd match of the ongoing DP World ILT20 Season 4 between Eliminator: Seed 3 vs Seed 4 and Team 2",
+              "release_date": "2026-01-01T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "hi"
+              ],
+              "language_text": [
+                "hi"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5853034",
+              "order_id": 32,
+              "content_category": "Cricket",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5853049/list/270x152/1920x1080list5d13c39f9b1a4e2db551b70ce5bb89b85ed1a6ad57e241bc8f0cc0302dc49b8a.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5853049/portrait/720x1080withlogo3cf0b47cc68c469faca655de4d0437fa0e86ee3c3235484480c6663ba12fc30c.jpg",
+              "banner_tv": "3840x2160tvbannerd1acab8b469241349b97bfab9703c5f5f24d536391e14b90836be92c429819e3",
+              "square_icon": "",
+              "list_view": "1920x1080list5d13c39f9b1a4e2db551b70ce5bb89b85ed1a6ad57e241bc8f0cc0302dc49b8a.jpg"
+            },
+            "extra": {
+              "content_owner": "DP World ILT20",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [
+                "K"
+              ],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Haresh Naik",
+              "publish_time": "01-01-2026 07:05:07 PM"
             }
           }
         }
