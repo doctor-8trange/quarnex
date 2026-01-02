@@ -1,12 +1,12 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "01:00:07 PM 02-01-2026",
+  "last_updated": "01:15:01 PM 02-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
     "MULTI_CDN": "ON",
-    "Debugging": "ON",
+    "Debugging": "OFF",
     "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
     "REALTIME": "OFF",
