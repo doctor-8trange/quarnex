@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "12:00:02 AM 03-01-2026",
+  "last_updated": "12:15:01 AM 03-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,82 +16,5 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": [
-    {
-      "id": "0-1-6z5853069",
-      "title": "MIE Vs ADKAR - Qualifier 2",
-      "description": "Watch the live stream of the Qualifier 2 Match of the ongoing DP World ILT20 Season 4 between MIE Vs ADKAR.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "DP World ILT20",
-      "releaseDate": "2026-01-02",
-      "languages": [
-        "hindi"
-      ],
-      "audioLanguages": [
-        "hi"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853069/list/1920x1080list78ff8a9b94a846abafe1bdca062d5251d24e8ac04cd4480594e6f6b73b56a2ec.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853069/cover/1920x7705997a7326c7943aebf66ff4588dc4e1e6a0f6a0cf78a4523b5b56ec49d11676a.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853069/appCover/1920x1080appcover6de99dc017af4a74bf36dfc779fc15026b15f115e546468c8d7b15b30882ed2d.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853069/sticker/1920x45754068e8a1ea9433caf30144e1d8b786073aab337a5bf40aea21dd02c1c356020.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853069/verticalBanner/845x1080d35efb328f2f494cb27b3bbcb665892f079968e49f514ae7a08b6c3c0c554408.jpg"
-      },
-      "playback": {
-        "hindi": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/QUALIFIER_2/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "playbackDetail": {
-            "basicInfo": {
-              "id": "0-1-6z5853069",
-              "title": "MIE Vs ADKAR - Qualifier 2",
-              "description": "Watch the live stream of the Qualifier 2 Match of the ongoing DP World ILT20 Season 4 between MIE Vs ADKAR.",
-              "short_desc": "Watch the live stream of the 33rd match of the ongoing DP World ILT20 Season 4 between Qualifier 2: Loser of Q1 vs Winner of Eliminator and Team 2",
-              "release_date": "2026-01-02T00:00:00",
-              "duration": 0,
-              "age_rating": "U",
-              "genre": "Sports",
-              "language_audio": [
-                "hi"
-              ],
-              "language_text": [
-                "hi"
-              ]
-            },
-            "context": {
-              "show_id": null,
-              "show_title": null,
-              "season_id": "0-2-5z5853034",
-              "order_id": 33,
-              "content_category": "Cricket",
-              "is_original": false
-            },
-            "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5853069/list/270x152/1920x1080list78ff8a9b94a846abafe1bdca062d5251d24e8ac04cd4480594e6f6b73b56a2ec.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5853069/portrait/720x1080withlogo60dd8d5e6abb4b5ba146211f822aa1c7b95c897e9e7c47cb8cc475dd969d8a81.jpg",
-              "banner_tv": "3840x2160tvbanner2647f218800d46a185e05f13c91f593bb91b39fa1f6140708adeadf5ad2ca51d",
-              "square_icon": "",
-              "list_view": "1920x1080list78ff8a9b94a846abafe1bdca062d5251d24e8ac04cd4480594e6f6b73b56a2ec.jpg"
-            },
-            "extra": {
-              "content_owner": "DP World ILT20",
-              "business_type": "advertisement_downloadable",
-              "target_audience": [
-                "K"
-              ],
-              "broadcast_state": "",
-              "dub_available": false,
-              "user_published": "Haresh Naik",
-              "publish_time": "02-01-2026 07:05:06 PM"
-            }
-          }
-        }
-      }
-    }
-  ]
+  "matches": []
 }
