@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "03:45:06 PM 02-01-2026",
+  "last_updated": "04:00:07 PM 02-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -146,6 +146,140 @@
               "dub_available": false,
               "user_published": "Prathamesh Gondhalkar",
               "publish_time": "02-01-2026 12:45:09 PM"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "0-1-6z5873767",
+      "title": "Kopa Tigers Birbhum Vs Burdwan Blasters",
+      "description": "Watch the live stream of the 27th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Burdwan Blasters.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-02",
+      "languages": [
+        "bengali",
+        "english"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873767/list/1920x1080listbecfc83ddc004e64b3c6ea69bb6fd431abacdcbf9a9045909766c31aee6a7cbb.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873767/cover/1920x77051691874589f40c69c66094099497c7351e9efddd860401bb8fdb64497591867.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873767/appCover/1920x1080appcovera0b93c3bf6214bf4ac80535690d886d04341d8ba20de4291893cf43b67499b59.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873767/sticker/1920x4577876f981dfee41ca90b924dad1b2a971aee6b0dbabd5450dbd9edd39c710e849.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873767/verticalBanner/845x108092a25924330949f0984c8d01281c30c1b3a765556efc4cfca37c2bbaf32568ad.jpg"
+      },
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M02/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873767",
+              "title": "Kopa Tigers Birbhum Vs Burdwan Blasters",
+              "description": "Watch the live stream of the 27th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Burdwan Blasters.",
+              "short_desc": "Watch the live stream of the 27th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Burdwan Blasters.",
+              "release_date": "2026-01-02T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 27,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873767/list/270x152/1920x1080listbecfc83ddc004e64b3c6ea69bb6fd431abacdcbf9a9045909766c31aee6a7cbb.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873767/portrait/720x1080withlogo3d799e9bb45146a3bfafa4009a8e48cb6c3791b52700426fac2b68d0358270b5.jpg",
+              "banner_tv": "3840x2160tvbanner852a0264f967458297bb3ce07930172b988e08a2333349d7b28ad2af78cbb29b",
+              "square_icon": "",
+              "list_view": "1920x1080listbecfc83ddc004e64b3c6ea69bb6fd431abacdcbf9a9045909766c31aee6a7cbb.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "02-01-2026 03:45:06 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M02/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873767",
+              "title": "Kopa Tigers Birbhum Vs Burdwan Blasters",
+              "description": "Watch the live stream of the 27th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Burdwan Blasters.",
+              "short_desc": "Watch the live stream of the 27th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Burdwan Blasters.",
+              "release_date": "2026-01-02T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 27,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873767/list/270x152/1920x1080listbecfc83ddc004e64b3c6ea69bb6fd431abacdcbf9a9045909766c31aee6a7cbb.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873767/portrait/720x1080withlogo3d799e9bb45146a3bfafa4009a8e48cb6c3791b52700426fac2b68d0358270b5.jpg",
+              "banner_tv": "3840x2160tvbanner852a0264f967458297bb3ce07930172b988e08a2333349d7b28ad2af78cbb29b",
+              "square_icon": "",
+              "list_view": "1920x1080listbecfc83ddc004e64b3c6ea69bb6fd431abacdcbf9a9045909766c31aee6a7cbb.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "02-01-2026 03:45:06 PM"
             }
           }
         }
