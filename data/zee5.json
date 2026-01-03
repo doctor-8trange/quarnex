@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:00:01 PM 03-01-2026",
+  "last_updated": "09:15:06 PM 03-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -79,11 +79,11 @@
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080list50ad56ffb59042f3b70155854b5bde03ce78ac99941940eb901c2fd6ea4defda.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogo1a91198cb019481e9ed3aac64dc8875037d3d13fb7084764befd96fabc08c595.jpg",
-              "banner_tv": "3840x2160tvbannerb60319670bf9417688f7b0177dc96fb3f5369733124e4bedba3f74af5100a15b",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080list41be689038cb45f5bcb9d10b7c912e3553b917a9dae64b6ca42b420646dd9d28.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogob4dc57bf5b384e008f864149da3a1517ddc15d6b5aef4ea6ac64c5d245055f0c.jpg",
+              "banner_tv": "3840x2160tvbannerfff110d5cf35402099dba71a8a531bccecaaba01fd6a45d59d3a32ccf6a529d6",
               "square_icon": "",
-              "list_view": "1920x1080list50ad56ffb59042f3b70155854b5bde03ce78ac99941940eb901c2fd6ea4defda.jpg"
+              "list_view": "1920x1080list41be689038cb45f5bcb9d10b7c912e3553b917a9dae64b6ca42b420646dd9d28.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -92,7 +92,7 @@
               "broadcast_state": "",
               "dub_available": false,
               "user_published": "Sanjana Khanvil",
-              "publish_time": "03-01-2026 04:45:11 PM"
+              "publish_time": "03-01-2026 07:15:06 PM"
             }
           }
         },
@@ -127,11 +127,11 @@
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080list50ad56ffb59042f3b70155854b5bde03ce78ac99941940eb901c2fd6ea4defda.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogo1a91198cb019481e9ed3aac64dc8875037d3d13fb7084764befd96fabc08c595.jpg",
-              "banner_tv": "3840x2160tvbannerb60319670bf9417688f7b0177dc96fb3f5369733124e4bedba3f74af5100a15b",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080list41be689038cb45f5bcb9d10b7c912e3553b917a9dae64b6ca42b420646dd9d28.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogob4dc57bf5b384e008f864149da3a1517ddc15d6b5aef4ea6ac64c5d245055f0c.jpg",
+              "banner_tv": "3840x2160tvbannerfff110d5cf35402099dba71a8a531bccecaaba01fd6a45d59d3a32ccf6a529d6",
               "square_icon": "",
-              "list_view": "1920x1080list50ad56ffb59042f3b70155854b5bde03ce78ac99941940eb901c2fd6ea4defda.jpg"
+              "list_view": "1920x1080list41be689038cb45f5bcb9d10b7c912e3553b917a9dae64b6ca42b420646dd9d28.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -140,7 +140,7 @@
               "broadcast_state": "",
               "dub_available": false,
               "user_published": "Sanjana Khanvil",
-              "publish_time": "03-01-2026 04:45:11 PM"
+              "publish_time": "03-01-2026 07:15:06 PM"
             }
           }
         }
