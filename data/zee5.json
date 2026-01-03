@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "12:45:01 PM 03-01-2026",
+  "last_updated": "01:00:08 PM 03-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,5 +16,140 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": []
+  "matches": [
+    {
+      "id": "0-1-6z5873755",
+      "title": "Northbengal United Fc Vs North 24 Parganas Fc",
+      "description": "Watch the live stream of the 28th match of the ongoing The Bengal Super League between Northbengal United Fc and North 24 Parganas Fc.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-03",
+      "languages": [
+        "bengali",
+        "english"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873755/list/1920x1080list7a091c1249a2434d83f7924533ebc50f1937af9e12784924b75beb85ffe5a6bc.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873755/cover/1920x770f0b1ecac57184cd2a19e7847cf2a57f662f6316edd684897b60913648035e74b.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873755/appCover/1920x1080appcoverb56c83b963b341e1896dd200b43c3d511548e18982d14f67af7ec79fb2bdc8fe.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873755/sticker/1920x457e1d2bee337eb419d9b134f0b61bf328f8213b78bdcbe4146aa960af3012749e7.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873755/verticalBanner/845x108001e7d0799e8d47a39cc3864c60d01ed2ad16b27baa7f4fcdb8171984b7f98eeb.jpg"
+      },
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873755",
+              "title": "Northbengal United Fc Vs North 24 Parganas Fc",
+              "description": "Watch the live stream of the 28th match of the ongoing The Bengal Super League between Northbengal United Fc and North 24 Parganas Fc.",
+              "short_desc": "Watch the live stream of the 28th match of the ongoing The Bengal Super League between Northbengal United Fc and North 24 Parganas Fc.",
+              "release_date": "2026-01-03T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 28,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873755/list/270x152/1920x1080list7a091c1249a2434d83f7924533ebc50f1937af9e12784924b75beb85ffe5a6bc.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873755/portrait/720x1080withlogod90668121dbb418fb763bcc83efbb4961026f901963041aab96a46216d76ce3f.jpg",
+              "banner_tv": "3840x2160tvbanner48637995485b441a9549dbdcaf3b5f1c0d4d3826b7c942139707a51a57b9d476",
+              "square_icon": "",
+              "list_view": "1920x1080list7a091c1249a2434d83f7924533ebc50f1937af9e12784924b75beb85ffe5a6bc.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "03-01-2026 12:45:05 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873755",
+              "title": "Northbengal United Fc Vs North 24 Parganas Fc",
+              "description": "Watch the live stream of the 28th match of the ongoing The Bengal Super League between Northbengal United Fc and North 24 Parganas Fc.",
+              "short_desc": "Watch the live stream of the 28th match of the ongoing The Bengal Super League between Northbengal United Fc and North 24 Parganas Fc.",
+              "release_date": "2026-01-03T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 28,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873755/list/270x152/1920x1080list7a091c1249a2434d83f7924533ebc50f1937af9e12784924b75beb85ffe5a6bc.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873755/portrait/720x1080withlogod90668121dbb418fb763bcc83efbb4961026f901963041aab96a46216d76ce3f.jpg",
+              "banner_tv": "3840x2160tvbanner48637995485b441a9549dbdcaf3b5f1c0d4d3826b7c942139707a51a57b9d476",
+              "square_icon": "",
+              "list_view": "1920x1080list7a091c1249a2434d83f7924533ebc50f1937af9e12784924b75beb85ffe5a6bc.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "03-01-2026 12:45:05 PM"
+            }
+          }
+        }
+      }
+    }
+  ]
 }
