@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:00:02 PM 04-01-2026",
+  "last_updated": "05:00:08 PM 04-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -18,77 +18,72 @@
   },
   "matches": [
     {
-      "id": "0-1-6z5873793",
-      "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum",
-      "description": "Watch the live stream of the 29th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Kopa Tigers Birbhum.",
+      "id": "0-1-6z5882427",
+      "title": "Uttar Pradesh Kabaddi League Season 2",
+      "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
       "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
         {
           "id": "Event",
           "value": "Event"
         },
         {
-          "id": "Action",
-          "value": "Action"
+          "id": "Sports",
+          "value": "Sports"
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
       "releaseDate": "2026-01-04",
       "languages": [
-        "bengali",
+        "hindi",
         "english"
       ],
       "audioLanguages": [
-        "bn",
+        "hi",
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873793/list/1920x1080list8f636ca0a0144aaf90cfcd3388751aec530d56fffbec4c82b5c7e690bd57889b.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873793/cover/1920x77072c8362fbcda42389ac70f91fd52209337fcbd819dd0478bb4050c0a828ee619.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873793/appCover/1920x1080appcover48892520ea5645d5901f03186839f771b2c06e36a0374ac0a781eb94671aa141.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873793/sticker/1920x45742f932797b9a4c81bcf39c1cbc20b9ab1c19f1289a9f4616bb9bf0121c17d2f5.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873793/verticalBanner/845x108066711c3b10804105a58cd397488eebf3d0441f066e564a7c8cbb3e17f66a98c2.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list250113f34f1d48cc9f6637cc3d1efb7b5390404fca394b0caa5a1f0a3cc3e7f5.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x7709ed2ea7fd2d24ec381647e0012d5899d6a1d5a4f2729460683da8ee8300b6584.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcover0b8ddb1128b148568b8b0f1c3c19f7efba6f2a8a6a6e43f782888e635aefe23d.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x1080443ae280e46f47efac779830e79c8a9ed78c19f509254cc2a824f276d9b6690e.jpg"
       },
       "playback": {
-        "bengali": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+        "hindi": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873793",
-              "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum",
-              "description": "Watch the live stream of the 29th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Kopa Tigers Birbhum.",
-              "short_desc": "Watch the live stream of the 29th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Kopa Tigers Birbhum.",
+              "id": "0-1-6z5882427",
+              "title": "Uttar Pradesh Kabaddi League Season 2",
+              "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "short_desc": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
               "release_date": "2026-01-04T00:00:00",
               "duration": 0,
               "age_rating": "U",
-              "genre": "Sports",
+              "genre": "Event",
               "language_audio": [
-                "bn",
+                "hi",
                 "en"
               ],
               "language_text": [
-                "bn",
+                "hi",
                 "en"
               ]
             },
             "context": {
               "show_id": null,
               "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 29,
-              "content_category": "Football",
+              "season_id": "0-2-5z5878943",
+              "order_id": 1,
+              "content_category": "Kabbadi",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873793/list/270x152/1920x1080list8f636ca0a0144aaf90cfcd3388751aec530d56fffbec4c82b5c7e690bd57889b.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873793/portrait/720x1080withlogo1da0359138e0409a87d01a72fbbe0b07f442d3ba2a4444a18048dcb2e051355b.jpg",
-              "banner_tv": "3840x2160tvbanner9693e9bc06304e6daf47c7e2a75c7019f173d5980bdd4397ae9225e5d93533a0",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080list250113f34f1d48cc9f6637cc3d1efb7b5390404fca394b0caa5a1f0a3cc3e7f5.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogofbc3c451e94344f881ae3f695a98ca165922b436f3ed42f79bbb68725b8cc572.jpg",
+              "banner_tv": "3840x2160tvbannercf14aee6a824408b87b6bdc57eceff473549e8332932496d83e7bbd4dc6c58c3",
               "square_icon": "",
-              "list_view": "1920x1080list8f636ca0a0144aaf90cfcd3388751aec530d56fffbec4c82b5c7e690bd57889b.jpg"
+              "list_view": "1920x1080list250113f34f1d48cc9f6637cc3d1efb7b5390404fca394b0caa5a1f0a3cc3e7f5.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -96,47 +91,47 @@
               "target_audience": [],
               "broadcast_state": "",
               "dub_available": false,
-              "user_published": "Vivek Halder",
-              "publish_time": "04-01-2026 12:45:36 PM"
+              "user_published": "Sanjana Khanvil",
+              "publish_time": "04-01-2026 04:45:05 PM"
             }
           }
         },
         "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873793",
-              "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum",
-              "description": "Watch the live stream of the 29th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Kopa Tigers Birbhum.",
-              "short_desc": "Watch the live stream of the 29th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Kopa Tigers Birbhum.",
+              "id": "0-1-6z5882427",
+              "title": "Uttar Pradesh Kabaddi League Season 2",
+              "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "short_desc": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
               "release_date": "2026-01-04T00:00:00",
               "duration": 0,
               "age_rating": "U",
-              "genre": "Sports",
+              "genre": "Event",
               "language_audio": [
-                "bn",
+                "hi",
                 "en"
               ],
               "language_text": [
-                "bn",
+                "hi",
                 "en"
               ]
             },
             "context": {
               "show_id": null,
               "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 29,
-              "content_category": "Football",
+              "season_id": "0-2-5z5878943",
+              "order_id": 1,
+              "content_category": "Kabbadi",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873793/list/270x152/1920x1080list8f636ca0a0144aaf90cfcd3388751aec530d56fffbec4c82b5c7e690bd57889b.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873793/portrait/720x1080withlogo1da0359138e0409a87d01a72fbbe0b07f442d3ba2a4444a18048dcb2e051355b.jpg",
-              "banner_tv": "3840x2160tvbanner9693e9bc06304e6daf47c7e2a75c7019f173d5980bdd4397ae9225e5d93533a0",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080list250113f34f1d48cc9f6637cc3d1efb7b5390404fca394b0caa5a1f0a3cc3e7f5.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogofbc3c451e94344f881ae3f695a98ca165922b436f3ed42f79bbb68725b8cc572.jpg",
+              "banner_tv": "3840x2160tvbannercf14aee6a824408b87b6bdc57eceff473549e8332932496d83e7bbd4dc6c58c3",
               "square_icon": "",
-              "list_view": "1920x1080list8f636ca0a0144aaf90cfcd3388751aec530d56fffbec4c82b5c7e690bd57889b.jpg"
+              "list_view": "1920x1080list250113f34f1d48cc9f6637cc3d1efb7b5390404fca394b0caa5a1f0a3cc3e7f5.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -144,8 +139,8 @@
               "target_audience": [],
               "broadcast_state": "",
               "dub_available": false,
-              "user_published": "Vivek Halder",
-              "publish_time": "04-01-2026 12:45:36 PM"
+              "user_published": "Sanjana Khanvil",
+              "publish_time": "04-01-2026 04:45:05 PM"
             }
           }
         }
