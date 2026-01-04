@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:30:04 PM 04-01-2026",
+  "last_updated": "06:45:04 PM 04-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -17,6 +17,82 @@
     "USAGE_GUIDE": []
   },
   "matches": [
+    {
+      "id": "0-1-6z5853058",
+      "title": "DV Vs MIE - Final",
+      "description": "Watch the live stream of the Final match of the ongoing DP World ILT20 Season 4 between DV Vs MIE - Final.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "DP World ILT20",
+      "releaseDate": "2026-01-04",
+      "languages": [
+        "hindi"
+      ],
+      "audioLanguages": [
+        "hi"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853058/list/1920x1080listb57959002dc94db586c06b7ae75bfca04b4d7f7db9f24676b020a07a1cecdbcd.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853058/cover/1920x770e97534bae4c748cc9d115ae4db7dd33e6d00892ab2ff443ab26194c1e32dedea.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853058/appCover/1920x1080appcover579b3669b476458fb786dc224ce49719c439c9ee729842a6a1fa77f23b3f957c.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853058/sticker/1920x457165db0de82a64ca580d82d49b4da0a37babcc9830a5c46cc8e266d7e6b442021.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5853058/verticalBanner/845x108034120e804ffb43bdbb7114646ee3c39ab360fd85379845dc97938dee4a5b2650.jpg"
+      },
+      "playback": {
+        "hindi": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/FINAL/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5853058",
+              "title": "DV Vs MIE - Final",
+              "description": "Watch the live stream of the Final match of the ongoing DP World ILT20 Season 4 between DV Vs MIE - Final.",
+              "short_desc": "Watch the live stream of the 34th match of the ongoing DP World ILT20 Season 4 between Final: Winner of Q1 vs Winner of Q2 and Team 2",
+              "release_date": "2026-01-04T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "hi"
+              ],
+              "language_text": [
+                "hi"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5853034",
+              "order_id": 34,
+              "content_category": "Cricket",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5853058/list/270x152/1920x1080listb57959002dc94db586c06b7ae75bfca04b4d7f7db9f24676b020a07a1cecdbcd.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5853058/portrait/720x1080withlogo4bd68b2ee56d4f0c8fcf73742ce4b89a9951ce5796914656b69da51e58880030.jpg",
+              "banner_tv": "3840x2160tvbanner4ba61b27bc8848808733f4cd5b4562d8dec2facc4c5e42dc941fadea99c87ff1",
+              "square_icon": "",
+              "list_view": "1920x1080listb57959002dc94db586c06b7ae75bfca04b4d7f7db9f24676b020a07a1cecdbcd.jpg"
+            },
+            "extra": {
+              "content_owner": "DP World ILT20",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [
+                "K"
+              ],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Haresh Naik",
+              "publish_time": "04-01-2026 06:35:10 PM"
+            }
+          }
+        }
+      }
+    },
     {
       "id": "0-1-6z5882427",
       "title": "Uttar Pradesh Kabaddi League Season 2",
