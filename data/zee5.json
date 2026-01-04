@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "07:30:01 PM 04-01-2026",
+  "last_updated": "07:45:03 PM 04-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -118,10 +118,10 @@
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list250113f34f1d48cc9f6637cc3d1efb7b5390404fca394b0caa5a1f0a3cc3e7f5.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x7709ed2ea7fd2d24ec381647e0012d5899d6a1d5a4f2729460683da8ee8300b6584.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcover0b8ddb1128b148568b8b0f1c3c19f7efba6f2a8a6a6e43f782888e635aefe23d.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x1080443ae280e46f47efac779830e79c8a9ed78c19f509254cc2a824f276d9b6690e.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080listbb031c2791c94021b7f8ae198ddaad4f2095ba8a43ed4dde943d1e07ef2e6bf0.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x77067dd74ca7efa4867806a0feba3fa785afa5e49b4d12e4101b957eb0fb702da77.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcover706cd25e97a341bbbd76b8136de9c7f9a78b7f5ff2e44f4d9051ec0f63394645.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x1080f2fe7ebd9e0844898cb5c9debae13c126f679430789347b789688e5831854b9a.jpg"
       },
       "playback": {
         "hindi": {
