@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:00:01 PM 05-01-2026",
+  "last_updated": "06:15:01 PM 05-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -282,6 +282,42 @@
     }
   ],
   "upcoming": {
+    "0-1-6z5873881": {
+      "id": "0-1-6z5873881",
+      "title": "Fc Medinipur Vs Howrah Hooghly Warriors - Preview",
+      "description": "Watch the drama unfold in match 32 of The Bengal Super League between Fc Medinipur and Howrah Hooghly Warriors on 06th Jan 2026 01:00 PM IST, Catch all the live action on ZEE5.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-06T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/list/1920x1080lista55b9deafd0a4e3abce8c82af25dc80361ab42b1d6644c03a8ab9eb810f40731.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/cover/1920x77047ad91f714ce4ba88eab2001a8ab12255b704c080c2b4246b8d82806dfb1dd66.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/appCover/1920x1080appcover4f0b5e3b406240379c90f9321dbbe46c380aa94042894af3a72c8f389707fce5.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/sticker/1920x457c0ed984c3b4d4d94906e676bec206020cb74bebcd9d7420eaa24dcfacf5809cf.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/verticalBanner/845x108062bdf4cffcc24c9cb234ac04a090ddf6c49ff8d3fd964dfaa6685a66a29afc9e.jpg"
+      }
+    },
     "0-1-6z5882511": {
       "id": "0-1-6z5882511",
       "title": "Day 13 - Preview - UPKL",
