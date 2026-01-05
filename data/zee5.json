@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "03:48:52 PM 05-01-2026",
+  "last_updated": "04:00:10 PM 05-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -18,9 +18,9 @@
   },
   "matches": [
     {
-      "id": "0-1-6z5873753",
-      "title": "North 24 Parganas Fc Vs Jhr Royal City Fc Malda",
-      "description": "Watch the live stream of the 30th match of the ongoing The Bengal Super League between North 24 Parganas Fc and Jhr Royal City Fc Malda.",
+      "id": "0-1-6z5873754",
+      "title": "Northbengal United Fc Vs Burdwan Blasters",
+      "description": "Watch the live stream of the 31st match of the ongoing The Bengal Super League between Northbengal United Fc and Burdwan Blasters.",
       "genres": [
         {
           "id": "Sports",
@@ -46,22 +46,22 @@
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873753/list/1920x1080listc96670edffab4e788f79d11417bd0f19aa17209e3b4a481f9a5185023a18b8c4.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873753/cover/1920x770205f9c7ee06148838d4ccd2ad31bd4ab1ce300e8ce6a439091704baba72ba5e0.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873753/appCover/1920x1080appcoverc6f14cd8ffed4fa3825cf9f6b260232d5a51a16a88064649a2af481fad7a5132.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873753/sticker/1920x457995bffe29c1243c29bdd7d40adc2a69d98718474393b45698b1aca722251cefb.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873753/verticalBanner/845x1080e68e31d065814ecc914dee489ee93a19e6caa63ed43a48e48dc6d788d0b642c4.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873754/list/1920x1080listd969dfa7b58d47cb9c3f3d0f3fe9ab938b73ae701d00406184ee79a15872ac88.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873754/cover/1920x77033d98800ce4b4c68ba53603f563c9b2eeda066cc2c094f7c9ee4264520dadf02.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873754/appCover/1920x1080appcover8bc9b09a46ae424f9ab4e1188acc51d96dcf2b2ad3734702a8d74964e981b036.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873754/sticker/1920x457123665d774de4f49b8d833153aad1b00ebc271fcafc84aafb591304c2e88535d.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873754/verticalBanner/845x1080da161438cfaf4ebba22180e2ab87529417d496c519a1480eb46b9bad6866c161.jpg"
       },
       "playback": {
         "bengali": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M02/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873753",
-              "title": "North 24 Parganas Fc Vs Jhr Royal City Fc Malda",
-              "description": "Watch the live stream of the 30th match of the ongoing The Bengal Super League between North 24 Parganas Fc and Jhr Royal City Fc Malda.",
-              "short_desc": "Watch the live stream of the 30th match of the ongoing The Bengal Super League between North 24 Parganas Fc and Jhr Royal City Fc Malda.",
+              "id": "0-1-6z5873754",
+              "title": "Northbengal United Fc Vs Burdwan Blasters",
+              "description": "Watch the live stream of the 31st match of the ongoing The Bengal Super League between Northbengal United Fc and Burdwan Blasters.",
+              "short_desc": "Watch the live stream of the 31st match of the ongoing The Bengal Super League between Northbengal United Fc and Burdwan Blasters.",
               "release_date": "2026-01-05T00:00:00",
               "duration": 0,
               "age_rating": "U",
@@ -79,16 +79,16 @@
               "show_id": null,
               "show_title": null,
               "season_id": "0-2-5z5868790",
-              "order_id": 30,
+              "order_id": 31,
               "content_category": "Football",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873753/list/270x152/1920x1080listc96670edffab4e788f79d11417bd0f19aa17209e3b4a481f9a5185023a18b8c4.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873753/portrait/720x1080withlogo2a5975449c5b4015a58457912a7ed4142a555563065a408b9ca9ba6bd71330f1.jpg",
-              "banner_tv": "3840x2160tvbanner2e4a5598ffaa473e9af8cec1433f9a17e463c3859aad44de9a0e1d4cf46f77e0",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873754/list/270x152/1920x1080listd969dfa7b58d47cb9c3f3d0f3fe9ab938b73ae701d00406184ee79a15872ac88.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873754/portrait/720x1080withlogod21331221bad42f891daaa44c32b3295e86be00c2d6249c483be2b3766b036bd.jpg",
+              "banner_tv": "3840x2160tvbanner6a076b478da4439a8cf832f7121a99aec49a20dae12c4177991eb96afc8aeca7",
               "square_icon": "",
-              "list_view": "1920x1080listc96670edffab4e788f79d11417bd0f19aa17209e3b4a481f9a5185023a18b8c4.jpg"
+              "list_view": "1920x1080listd969dfa7b58d47cb9c3f3d0f3fe9ab938b73ae701d00406184ee79a15872ac88.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -97,19 +97,19 @@
               "broadcast_state": "",
               "dub_available": false,
               "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "05-01-2026 12:45:10 PM"
+              "publish_time": "05-01-2026 03:45:10 PM"
             }
           }
         },
         "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M02/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873753",
-              "title": "North 24 Parganas Fc Vs Jhr Royal City Fc Malda",
-              "description": "Watch the live stream of the 30th match of the ongoing The Bengal Super League between North 24 Parganas Fc and Jhr Royal City Fc Malda.",
-              "short_desc": "Watch the live stream of the 30th match of the ongoing The Bengal Super League between North 24 Parganas Fc and Jhr Royal City Fc Malda.",
+              "id": "0-1-6z5873754",
+              "title": "Northbengal United Fc Vs Burdwan Blasters",
+              "description": "Watch the live stream of the 31st match of the ongoing The Bengal Super League between Northbengal United Fc and Burdwan Blasters.",
+              "short_desc": "Watch the live stream of the 31st match of the ongoing The Bengal Super League between Northbengal United Fc and Burdwan Blasters.",
               "release_date": "2026-01-05T00:00:00",
               "duration": 0,
               "age_rating": "U",
@@ -127,16 +127,16 @@
               "show_id": null,
               "show_title": null,
               "season_id": "0-2-5z5868790",
-              "order_id": 30,
+              "order_id": 31,
               "content_category": "Football",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873753/list/270x152/1920x1080listc96670edffab4e788f79d11417bd0f19aa17209e3b4a481f9a5185023a18b8c4.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873753/portrait/720x1080withlogo2a5975449c5b4015a58457912a7ed4142a555563065a408b9ca9ba6bd71330f1.jpg",
-              "banner_tv": "3840x2160tvbanner2e4a5598ffaa473e9af8cec1433f9a17e463c3859aad44de9a0e1d4cf46f77e0",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873754/list/270x152/1920x1080listd969dfa7b58d47cb9c3f3d0f3fe9ab938b73ae701d00406184ee79a15872ac88.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873754/portrait/720x1080withlogod21331221bad42f891daaa44c32b3295e86be00c2d6249c483be2b3766b036bd.jpg",
+              "banner_tv": "3840x2160tvbanner6a076b478da4439a8cf832f7121a99aec49a20dae12c4177991eb96afc8aeca7",
               "square_icon": "",
-              "list_view": "1920x1080listc96670edffab4e788f79d11417bd0f19aa17209e3b4a481f9a5185023a18b8c4.jpg"
+              "list_view": "1920x1080listd969dfa7b58d47cb9c3f3d0f3fe9ab938b73ae701d00406184ee79a15872ac88.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -145,7 +145,7 @@
               "broadcast_state": "",
               "dub_available": false,
               "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "05-01-2026 12:45:10 PM"
+              "publish_time": "05-01-2026 03:45:10 PM"
             }
           }
         }
