@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:00:10 PM 05-01-2026",
+  "last_updated": "04:15:01 PM 05-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -180,42 +180,6 @@
         "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882511/cover/1920x7706b08fb5d81b44ad9b94cc81d33022ee1d7269787b26441a39e85055ec353815b.jpg",
         "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882511/appCover/1920x1080appcover1bc7f44db4d94c6493776d78f4b5693c6afa0358c89f4c32827a05b962fe861d.jpg",
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882511/verticalBanner/845x108096a03aa3effb4a1fa6ce390a0d83c74b4f01ff30e2634a49aec0d42097e2bcb2.jpg"
-      }
-    },
-    "0-1-6z5873890": {
-      "id": "0-1-6z5873890",
-      "title": "Day 23 - Bengal Super League - Preview",
-      "description": "Get ready for a double dose of energy as the drama unfolds in the back-to-back matches on day 2nd Jan 2026 of the Bengal Super League! Watch all the action LIVE on ZEE5. ",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Action",
-          "value": "Action"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-05T00:00:00",
-      "languages": [
-        "bn",
-        "en"
-      ],
-      "audioLanguages": [
-        "bn",
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873890/list/1920x1080list57da2a529ef245ada5406676deff48f2fd9a4073909e4013966ce5a5e970ac1a.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873890/cover/1920x77037efab88dfd44b83b22e93fa37909ffba71c5aae25684c07aec82748e5bef871.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873890/appCover/1920x1080appcover63238f20b3274e0c9465d4dc3ca5990c52dfea392f9847cfa9bc99e9b0571039.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873890/sticker/1920x457954978e6c04647b68053ac948bc84fa4e98dd70e54e842adb1bfe417b77f69ec.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873890/verticalBanner/845x10801926a43fd68e4a548193b6d44b77b147e4554638cef34a1fa11611ac416049d9.jpg"
       }
     },
     "0-1-6z5873883": {
