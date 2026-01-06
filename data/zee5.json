@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "05:32:01 PM 06-01-2026",
+  "last_updated": "06:17:04 PM 06-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -182,35 +182,6 @@
         "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873870/appCover/1920x1080appcover58dd372bfe9a49209b9bd16eccd160dba85bb6f0e46e4898861ceccea8ad1768.jpg",
         "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873870/sticker/1920x457862104974cf04016ace57defe9893f99748ff76c542f4db4a2fb13e4fce2db52.jpg",
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873870/verticalBanner/845x10807ba6116571ea4fb5a66c51736e02d53a385bddd2c9a54047b3ee3d187b31e0d9.jpg"
-      }
-    },
-    "0-1-6z5882513": {
-      "id": "0-1-6z5882513",
-      "title": "Day 14 - Preview - UPKL",
-      "description": "Watch the drama unfold on day 14 of the Uttar Pradesh Kabaddi League on 6th January 2026. Catch all the action LIVE, only on ZEE5.",
-      "genres": [
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-06T00:00:00",
-      "languages": [
-        "hi"
-      ],
-      "audioLanguages": [
-        "hi"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882513/list/1920x1080list268498d79ffc4e54881663ff6651e728bade9eb57d49445cb2f1752b15d94555.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882513/cover/1920x7702f860425d8bb429a859cffb248acf5cd4f9798be448a42f0b8fac68f8c66c4e2.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882513/appCover/1920x1080appcover3f1f7b0c9dc14415ab013b8792ebf1a09efc3cdeb3b74ce28a2e4aa04d4b26f3.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882513/verticalBanner/845x108049b99b10de2d45eaae531eb309047315fce80305749f4d2dbd801b0c8827a70f.jpg"
       }
     },
     "0-1-6z5873883": {
