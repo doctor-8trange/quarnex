@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "10:15:01 AM 06-01-2026",
+  "last_updated": "10:30:01 AM 06-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -17,5 +17,173 @@
     "USAGE_GUIDE": []
   },
   "matches": [],
-  "upcoming": []
+  "upcoming": {
+    "0-1-6z5882513": {
+      "id": "0-1-6z5882513",
+      "title": "Day 14 - Preview - UPKL",
+      "description": "Watch the drama unfold on day 14 of the Uttar Pradesh Kabaddi League on 6th January 2026. Catch all the action LIVE, only on ZEE5.",
+      "genres": [
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-06T00:00:00",
+      "languages": [
+        "hi"
+      ],
+      "audioLanguages": [
+        "hi"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882513/list/1920x1080list268498d79ffc4e54881663ff6651e728bade9eb57d49445cb2f1752b15d94555.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882513/cover/1920x7702f860425d8bb429a859cffb248acf5cd4f9798be448a42f0b8fac68f8c66c4e2.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882513/appCover/1920x1080appcover3f1f7b0c9dc14415ab013b8792ebf1a09efc3cdeb3b74ce28a2e4aa04d4b26f3.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882513/verticalBanner/845x108049b99b10de2d45eaae531eb309047315fce80305749f4d2dbd801b0c8827a70f.jpg"
+      }
+    },
+    "0-1-6z5873881": {
+      "id": "0-1-6z5873881",
+      "title": "Fc Medinipur Vs Howrah Hooghly Warriors - Preview",
+      "description": "Watch the drama unfold in match 32 of The Bengal Super League between Fc Medinipur and Howrah Hooghly Warriors on 06th Jan 2026 01:00 PM IST, Catch all the live action on ZEE5.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-06T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/list/1920x1080lista55b9deafd0a4e3abce8c82af25dc80361ab42b1d6644c03a8ab9eb810f40731.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/cover/1920x77047ad91f714ce4ba88eab2001a8ab12255b704c080c2b4246b8d82806dfb1dd66.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/appCover/1920x1080appcover4f0b5e3b406240379c90f9321dbbe46c380aa94042894af3a72c8f389707fce5.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/sticker/1920x457c0ed984c3b4d4d94906e676bec206020cb74bebcd9d7420eaa24dcfacf5809cf.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873881/verticalBanner/845x108062bdf4cffcc24c9cb234ac04a090ddf6c49ff8d3fd964dfaa6685a66a29afc9e.jpg"
+      }
+    },
+    "0-1-6z5873883": {
+      "id": "0-1-6z5873883",
+      "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
+      "description": "Watch the drama unfold in match 29 of The Bengal Super League between Sundarban Bengal Auto Fc and Kopa Tigers Birbhum on 04th Jan 2026 01:00 PM IST, Catch all the live action on ZEE5.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-04T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873883/list/1920x1080list255adaee45c04da4a2e4bdb2793f1a3a838c326250274b9f943dc7081de3a5fb.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873883/cover/1920x77084328c4197ce4434a30a024dc76cb240b0d867c99a0f42878487dd2eadbeb112.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873883/appCover/1920x1080appcover7d17e4e3f43246a5badd4030e048335ecab837799a69477abb1609e688357c6f.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873883/sticker/1920x4575c260a1cc342412eb5ec02d4983ad17ad7a44db0b9ad4d2f9a626c6738a3ae8d.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873883/verticalBanner/845x10806fabbf50b4a34558bc363e6e678fab4cfcfea95894de4737a93f064b64465730.jpg"
+      }
+    },
+    "0-1-6z5873861": {
+      "id": "0-1-6z5873861",
+      "title": "Fc Medinipur Vs Sundarban Bengal Auto Fc - Preview",
+      "description": "Watch the drama unfold in match 15 of The Bengal Super League between Fc Medinipur and Sundarban Bengal Auto Fc on 24th Dec 2025 01:00 PM IST, Catch all the live action on ZEE5.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2025-12-24T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/list/1920x1080list4198fc4e8ce241ecbba1054da6e09dc8eae62505797c4f528b83301ad9434f5b.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/cover/1920x7700e520f286c2d46abad674458f14089c718874c8d416b48d18f779771f5890539.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/appCover/1920x1080appcover2da4fb5521d3443490b826df9903d104a68fc15172034d94b9420d1f5bc96f2f.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/sticker/1920x457c126a06bdfc9430487e400ff0e8ee997edec3b291e604c4aa79712f1e9a25799.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/verticalBanner/845x10804b93e5600a724c58846618e34668d92994f98ff0b2e74b949a6bc010d50ea378.jpg"
+      }
+    },
+    "0-1-6z5878246": {
+      "id": "0-1-6z5878246",
+      "title": "Day 6 - Preview - GSPL",
+      "description": "Watch the drama unfold in day 6 of GSPL, the biggest Pickleball league and Grand Slam on 22nd Dec 2025. Catch all the drama LIVE, only on ZEE5.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2025-12-22T00:00:00",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5878246/list/0000000003aabb1c46ff9e41e384c018cec03e0bde.jpg"
+      }
+    }
+  }
 }
