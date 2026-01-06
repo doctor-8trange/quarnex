@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:00:00 PM 06-01-2026",
+  "last_updated": "05:02:05 PM 06-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -18,77 +18,72 @@
   },
   "matches": [
     {
-      "id": "0-1-6z5873779",
-      "title": "Fc Medinipur Vs Howrah Hooghly Warriors",
-      "description": "Watch the live stream of the 32nd match of the ongoing The Bengal Super League between Fc Medinipur and Howrah Hooghly Warriors.",
+      "id": "0-1-6z5882427",
+      "title": "Uttar Pradesh Kabaddi League Season 2",
+      "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
       "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
         {
           "id": "Event",
           "value": "Event"
         },
         {
-          "id": "Action",
-          "value": "Action"
+          "id": "Sports",
+          "value": "Sports"
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
       "releaseDate": "2026-01-06",
       "languages": [
-        "bengali",
+        "hindi",
         "english"
       ],
       "audioLanguages": [
-        "bn",
+        "hi",
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873779/list/1920x1080list11f647ac56294eaaafabbeb8a74a1c5709ee238f13d44e2da5d35471701ddfb0.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873779/cover/1920x770bd40ffb545b94c7d945b87efc895ce7a6acb5cefa3c44446b63c0fb835b5ba9d.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873779/appCover/1920x1080appcover4d81fc283f924830be301e5543f902e0be31ba826700449d8be98d37e172cd54.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873779/sticker/1920x457b1e522cd663b4aa89537398d06da83fdde31477c514247c086a1066cee26a6fd.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873779/verticalBanner/845x10804ce9285caa2e45a1b340903749e69adc8fc1915b84734527a328a6f02118c740.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x770befe968bc0cd419eae631deb2003ffc57c3be095a000433ba1febf219ead5fbb.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcoverd79acdffba8a4ca991cea4d9e3660df71f45c542a09145c388511cde8ba37440.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x108083bc1e4e036b49979a199f234535c1fd4aeab61b93dd44edb160588c5db2270e.jpg"
       },
       "playback": {
-        "bengali": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+        "hindi": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873779",
-              "title": "Fc Medinipur Vs Howrah Hooghly Warriors",
-              "description": "Watch the live stream of the 32nd match of the ongoing The Bengal Super League between Fc Medinipur and Howrah Hooghly Warriors.",
-              "short_desc": "Watch the live stream of the 32nd match of the ongoing The Bengal Super League between Fc Medinipur and Howrah Hooghly Warriors.",
+              "id": "0-1-6z5882427",
+              "title": "Uttar Pradesh Kabaddi League Season 2",
+              "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "short_desc": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
               "release_date": "2026-01-06T00:00:00",
               "duration": 0,
               "age_rating": "U",
-              "genre": "Sports",
+              "genre": "Event",
               "language_audio": [
-                "bn",
+                "hi",
                 "en"
               ],
               "language_text": [
-                "bn",
+                "hi",
                 "en"
               ]
             },
             "context": {
               "show_id": null,
               "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 32,
-              "content_category": "Football",
+              "season_id": "0-2-5z5878943",
+              "order_id": 1,
+              "content_category": "Kabbadi",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873779/list/270x152/1920x1080list11f647ac56294eaaafabbeb8a74a1c5709ee238f13d44e2da5d35471701ddfb0.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873779/portrait/720x1080withlogofb868e417adf4d2ba075675211400018ca54c763620a4414900e50a3fbbe3b2d.jpg",
-              "banner_tv": "3840x2160tvbannerf22f792c363144ef96f029ae56f9b5e07667ec79c80f472384bc3b875f874f26",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogo0ca30695e473489882aab659b9ccb167f1306ff498ab4c47b89269b1ca6eba25.jpg",
+              "banner_tv": "3840x2160tvbannerc1496cdc7323437fb48469e3fdbae00393145030c066456e90fa366b87b6a800",
               "square_icon": "",
-              "list_view": "1920x1080list11f647ac56294eaaafabbeb8a74a1c5709ee238f13d44e2da5d35471701ddfb0.jpg"
+              "list_view": "1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -96,47 +91,47 @@
               "target_audience": [],
               "broadcast_state": "",
               "dub_available": false,
-              "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "06-01-2026 12:45:09 PM"
+              "user_published": "Sanjana Khanvil",
+              "publish_time": "06-01-2026 04:45:44 PM"
             }
           }
         },
         "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873779",
-              "title": "Fc Medinipur Vs Howrah Hooghly Warriors",
-              "description": "Watch the live stream of the 32nd match of the ongoing The Bengal Super League between Fc Medinipur and Howrah Hooghly Warriors.",
-              "short_desc": "Watch the live stream of the 32nd match of the ongoing The Bengal Super League between Fc Medinipur and Howrah Hooghly Warriors.",
+              "id": "0-1-6z5882427",
+              "title": "Uttar Pradesh Kabaddi League Season 2",
+              "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "short_desc": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
               "release_date": "2026-01-06T00:00:00",
               "duration": 0,
               "age_rating": "U",
-              "genre": "Sports",
+              "genre": "Event",
               "language_audio": [
-                "bn",
+                "hi",
                 "en"
               ],
               "language_text": [
-                "bn",
+                "hi",
                 "en"
               ]
             },
             "context": {
               "show_id": null,
               "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 32,
-              "content_category": "Football",
+              "season_id": "0-2-5z5878943",
+              "order_id": 1,
+              "content_category": "Kabbadi",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873779/list/270x152/1920x1080list11f647ac56294eaaafabbeb8a74a1c5709ee238f13d44e2da5d35471701ddfb0.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873779/portrait/720x1080withlogofb868e417adf4d2ba075675211400018ca54c763620a4414900e50a3fbbe3b2d.jpg",
-              "banner_tv": "3840x2160tvbannerf22f792c363144ef96f029ae56f9b5e07667ec79c80f472384bc3b875f874f26",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogo0ca30695e473489882aab659b9ccb167f1306ff498ab4c47b89269b1ca6eba25.jpg",
+              "banner_tv": "3840x2160tvbannerc1496cdc7323437fb48469e3fdbae00393145030c066456e90fa366b87b6a800",
               "square_icon": "",
-              "list_view": "1920x1080list11f647ac56294eaaafabbeb8a74a1c5709ee238f13d44e2da5d35471701ddfb0.jpg"
+              "list_view": "1920x1080list2441c26007a148aeb3494f9fab5b40b7ab88702215274490aff3e54f3e71882a.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -144,8 +139,8 @@
               "target_audience": [],
               "broadcast_state": "",
               "dub_available": false,
-              "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "06-01-2026 12:45:09 PM"
+              "user_published": "Sanjana Khanvil",
+              "publish_time": "06-01-2026 04:45:44 PM"
             }
           }
         }
