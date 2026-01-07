@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:00:11 PM 07-01-2026",
+  "last_updated": "04:15:02 PM 07-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -180,42 +180,6 @@
         "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882507/cover/1920x7701c82fabe1ba7419aa27637c34660ccab13fb9321bcf84d72a91bc8934579c443.jpg",
         "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882507/appCover/1920x1080appcover8d197a8d16cb423a9ee1b839a3257e6d0b14302a51454be6bb52e048489d8514.jpg",
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882507/verticalBanner/845x1080dd17a7b5775f4756ab62a94f07c6b399c5812124407248c6b3f2c1e96cde81e8.jpg"
-      }
-    },
-    "0-1-6z5873870": {
-      "id": "0-1-6z5873870",
-      "title": "Northbengal United Fc Vs Jhr Royal City Fc Malda - Preview",
-      "description": "Watch the drama unfold in match 33 of The Bengal Super League between Northbengal United Fc and Jhr Royal City Fc Malda on 07th Jan 2026 04:00 PM IST, Catch all the live action on ZEE5.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Action",
-          "value": "Action"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-07T00:00:00",
-      "languages": [
-        "bn",
-        "en"
-      ],
-      "audioLanguages": [
-        "bn",
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873870/list/1920x1080listb625c64864df4a2d8950eee2652a3643f8ae50dff5e74add84ae67c7f954380e.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873870/cover/1920x7700d4c2eb6bb614810942bdd1a571c99703320afeea67b45219ef05112a77fbd80.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873870/appCover/1920x1080appcover58dd372bfe9a49209b9bd16eccd160dba85bb6f0e46e4898861ceccea8ad1768.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873870/sticker/1920x457862104974cf04016ace57defe9893f99748ff76c542f4db4a2fb13e4fce2db52.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873870/verticalBanner/845x10807ba6116571ea4fb5a66c51736e02d53a385bddd2c9a54047b3ee3d187b31e0d9.jpg"
       }
     },
     "0-1-6z5873883": {
