@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:15:07 PM 07-01-2026",
+  "last_updated": "09:30:09 PM 07-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -148,6 +148,35 @@
     }
   ],
   "upcoming": {
+    "0-1-6z5882512": {
+      "id": "0-1-6z5882512",
+      "title": "Day 16 - Preview - UPKL",
+      "description": "Watch the drama unfold on day 16 of the Uttar Pradesh Kabaddi League on 8th January 2026. Catch all the action LIVE, only on ZEE5.",
+      "genres": [
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-08T00:00:00",
+      "languages": [
+        "hi"
+      ],
+      "audioLanguages": [
+        "hi"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882512/list/1920x1080list0add151e8b8043cb9bd78f06eafeb04558d68e8e9efc412b9e818a9cb770e2e3.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882512/cover/1920x7700f9eca551d6441bf90b124478c1a90784a227558ca8b4598af6abd512aead3da.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882512/appCover/1920x1080appcover51617d7267074e1a81f3bf369077eb6fc7e04a554a7c4f4ca7596ddcfeabf110.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882512/verticalBanner/845x10808b588e66cbe9485faff8c8f50d938963a844134839ee4c6c8c6470080fb3158c.jpg"
+      }
+    },
     "0-1-6z5873905": {
       "id": "0-1-6z5873905",
       "title": "Day 26 - Bengal Super League - Preview",
