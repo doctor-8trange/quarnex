@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "11:45:01 PM 07-01-2026",
+  "last_updated": "01:00:15 PM 08-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,7 +16,142 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "0-1-6z5873770",
+      "title": "Fc Medinipur Vs North 24 Parganas Fc",
+      "description": "Watch the live stream of the 34th match of the ongoing The Bengal Super League between Fc Medinipur and North 24 Parganas Fc.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-08",
+      "languages": [
+        "bengali",
+        "english"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873770/list/1920x1080listb22e77570c1a4399bdee497857ba9876021584a5f2c848bd9b50e81ffc50dfed.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873770/cover/1920x7701b07767befc140bc8daa9b7101ef9f50a918bb38ad8b43d392faf9cf1cba8679.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873770/appCover/1920x1080appcover00f46f3f44c44b928a16180c00e76896f597cfd0313d48d881f2dd51551089d8.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873770/sticker/1920x457577b4d2993d54252a9b84bc175ba66c38761953b7bff4bb8ac27e849716b0752.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873770/verticalBanner/845x1080cb6193613d894655896174df6cb11d34089419512e2742e4b0b4f53de40652f8.jpg"
+      },
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873770",
+              "title": "Fc Medinipur Vs North 24 Parganas Fc",
+              "description": "Watch the live stream of the 34th match of the ongoing The Bengal Super League between Fc Medinipur and North 24 Parganas Fc.",
+              "short_desc": "Watch the live stream of the 34th match of the ongoing The Bengal Super League between Fc Medinipur and North 24 Parganas Fc.",
+              "release_date": "2026-01-08T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 34,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873770/list/270x152/1920x1080listb22e77570c1a4399bdee497857ba9876021584a5f2c848bd9b50e81ffc50dfed.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873770/portrait/720x1080withlogo6dfede50cabe4cf98cb3d0d433e24a4bd7276105d5034c52b0bf18ef00a30a0c.jpg",
+              "banner_tv": "3840x2160tvbanner5e0753e2d54c4388923297b0649ef3039bf410bb178d4d929c06a543e0d1c7c4",
+              "square_icon": "",
+              "list_view": "1920x1080listb22e77570c1a4399bdee497857ba9876021584a5f2c848bd9b50e81ffc50dfed.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "08-01-2026 12:45:06 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873770",
+              "title": "Fc Medinipur Vs North 24 Parganas Fc",
+              "description": "Watch the live stream of the 34th match of the ongoing The Bengal Super League between Fc Medinipur and North 24 Parganas Fc.",
+              "short_desc": "Watch the live stream of the 34th match of the ongoing The Bengal Super League between Fc Medinipur and North 24 Parganas Fc.",
+              "release_date": "2026-01-08T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 34,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873770/list/270x152/1920x1080listb22e77570c1a4399bdee497857ba9876021584a5f2c848bd9b50e81ffc50dfed.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873770/portrait/720x1080withlogo6dfede50cabe4cf98cb3d0d433e24a4bd7276105d5034c52b0bf18ef00a30a0c.jpg",
+              "banner_tv": "3840x2160tvbanner5e0753e2d54c4388923297b0649ef3039bf410bb178d4d929c06a543e0d1c7c4",
+              "square_icon": "",
+              "list_view": "1920x1080listb22e77570c1a4399bdee497857ba9876021584a5f2c848bd9b50e81ffc50dfed.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "08-01-2026 12:45:06 PM"
+            }
+          }
+        }
+      }
+    }
+  ],
   "upcoming": {
     "0-1-6z5882512": {
       "id": "0-1-6z5882512",
@@ -185,6 +320,5 @@
         "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5878246/list/0000000003aabb1c46ff9e41e384c018cec03e0bde.jpg"
       }
     }
-  },
-  "status": "Offline / No Matches"
+  }
 }
