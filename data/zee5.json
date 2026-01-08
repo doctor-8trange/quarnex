@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "07:30:01 PM 08-01-2026",
+  "last_updated": "07:45:01 PM 08-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -17,140 +17,6 @@
     "USAGE_GUIDE": []
   },
   "matches": [
-    {
-      "id": "0-1-6z5873782",
-      "title": "Sundarban Bengal Auto Fc Vs Burdwan Blasters",
-      "description": "35th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Burdwan Blasters.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Action",
-          "value": "Action"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-08",
-      "languages": [
-        "bengali",
-        "english"
-      ],
-      "audioLanguages": [
-        "bn",
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873782/list/1920x1080listad7bc444a035443c94ef57bbfcc3afcdf04f134389ff468fafb3b1fef9e66873.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873782/cover/1920x7702d48fdd5860240199f5f1aeaf457c3bf14e320ce642d42608e8f19d8c7aa2358.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873782/appCover/1920x1080appcover297a646cb22e4eb08aba88d44452eec738bd6553a4e04a88ba1aa7731484a017.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873782/sticker/1920x4579e10434218d2408d979fc3507095da418311d1012970415199f34a25b33e7d91.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873782/verticalBanner/845x1080f36ce50294f94ec3ad969a2148b4320179a1dcd30d154d64b33dcdccdcaabb07.jpg"
-      },
-      "playback": {
-        "bengali": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M02/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "playbackDetail": {
-            "basicInfo": {
-              "id": "0-1-6z5873782",
-              "title": "Sundarban Bengal Auto Fc Vs Burdwan Blasters",
-              "description": "35th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Burdwan Blasters.",
-              "short_desc": "35th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Burdwan Blasters.",
-              "release_date": "2026-01-08T00:00:00",
-              "duration": 0,
-              "age_rating": "U",
-              "genre": "Sports",
-              "language_audio": [
-                "bn",
-                "en"
-              ],
-              "language_text": [
-                "bn",
-                "en"
-              ]
-            },
-            "context": {
-              "show_id": null,
-              "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 35,
-              "content_category": "Football",
-              "is_original": false
-            },
-            "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873782/list/270x152/1920x1080listad7bc444a035443c94ef57bbfcc3afcdf04f134389ff468fafb3b1fef9e66873.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873782/portrait/720x1080withlogod7223275727f48949de28c4578a5752181369a9acdc84db7ad18f48fdedc7a66.jpg",
-              "banner_tv": "3840x2160tvbanner343ec797e69147c3be109c9c6be8bc22ee0ccebb23364837af2aaab4e84f55bd",
-              "square_icon": "",
-              "list_view": "1920x1080listad7bc444a035443c94ef57bbfcc3afcdf04f134389ff468fafb3b1fef9e66873.jpg"
-            },
-            "extra": {
-              "content_owner": "Zee Entertainment Enterprises Limited",
-              "business_type": "advertisement_downloadable",
-              "target_audience": [],
-              "broadcast_state": "",
-              "dub_available": false,
-              "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "08-01-2026 03:45:06 PM"
-            }
-          }
-        },
-        "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M02/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "playbackDetail": {
-            "basicInfo": {
-              "id": "0-1-6z5873782",
-              "title": "Sundarban Bengal Auto Fc Vs Burdwan Blasters",
-              "description": "35th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Burdwan Blasters.",
-              "short_desc": "35th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Burdwan Blasters.",
-              "release_date": "2026-01-08T00:00:00",
-              "duration": 0,
-              "age_rating": "U",
-              "genre": "Sports",
-              "language_audio": [
-                "bn",
-                "en"
-              ],
-              "language_text": [
-                "bn",
-                "en"
-              ]
-            },
-            "context": {
-              "show_id": null,
-              "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 35,
-              "content_category": "Football",
-              "is_original": false
-            },
-            "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873782/list/270x152/1920x1080listad7bc444a035443c94ef57bbfcc3afcdf04f134389ff468fafb3b1fef9e66873.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873782/portrait/720x1080withlogod7223275727f48949de28c4578a5752181369a9acdc84db7ad18f48fdedc7a66.jpg",
-              "banner_tv": "3840x2160tvbanner343ec797e69147c3be109c9c6be8bc22ee0ccebb23364837af2aaab4e84f55bd",
-              "square_icon": "",
-              "list_view": "1920x1080listad7bc444a035443c94ef57bbfcc3afcdf04f134389ff468fafb3b1fef9e66873.jpg"
-            },
-            "extra": {
-              "content_owner": "Zee Entertainment Enterprises Limited",
-              "business_type": "advertisement_downloadable",
-              "target_audience": [],
-              "broadcast_state": "",
-              "dub_available": false,
-              "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "08-01-2026 03:45:06 PM"
-            }
-          }
-        }
-      }
-    },
     {
       "id": "0-1-6z5882427",
       "title": "Uttar Pradesh Kabaddi League Season 2",
@@ -176,10 +42,10 @@
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list890db818bb65433d812b971a4e04e8f8ee5a76666109443aa3ee4edf55a681fe.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x770151fe031b54646789ed53586b2a33c74c425a63294b94f0d88cb276ad0304369.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcover51cc8367ab8e4acbbdd73e58acb6fb6a924fba04d3e54666aa131b4326111d17.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x1080f77afd28f0664a688507f0a2c8c4a261ad80c5f5c9384a7090a9cf9aa5243c0d.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080list6987236012af47dcade492ca99b78f8281c0eb7dacf94e77882eb3cca5cbe26f.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x770cca61d0936264820a514db307d01e40af8f0f71a47784be28e07847d95cfcde5.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcover72fe5c2b589b4879893bd30e33757e7417f2ede34e084ca0b94b19250e54df21.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x108050089aaa55294b92a74bac16327c5cef2ecb7bd61dd64c73acdfdf0742647705.jpg"
       },
       "playback": {
         "hindi": {
