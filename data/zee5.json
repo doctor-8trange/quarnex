@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:15:05 PM 08-01-2026",
+  "last_updated": "06:30:01 PM 08-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -282,6 +282,42 @@
     }
   ],
   "upcoming": {
+    "0-1-6z5873869": {
+      "id": "0-1-6z5873869",
+      "title": "Howrah Hooghly Warriors Vs Kopa Tigers Birbhum - Preview",
+      "description": "Watch the drama unfold in match 36 of The Bengal Super League between Howrah Hooghly Warriors and Kopa Tigers Birbhum on 09th Jan 2026 01:00 PM IST,",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-09T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873869/list/1920x1080list8ab5586268584a1e8a84704de8a1201b11ed9fcde57c4d95923eb5f32f919600.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873869/cover/1920x770378239358c75489fb072470d8ada7be6f2dd206d074f4aea9887cb22ccfe6842.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873869/appCover/1920x1080appcoverdc773b10ccc549239d2eca90cfe6df72c635ed2bffd7491fbbeea7681d487939.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873869/sticker/1920x4571c5961b8dedf4026a27a58e5554591df81d77110d8e340d5a5810e7582557d7c.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873869/verticalBanner/845x1080befc4a3de675481fb57a723b68b1010802958574b2714924ace1c4a0b7912be3.jpg"
+      }
+    },
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
