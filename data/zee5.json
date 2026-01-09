@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "05:15:02 PM 09-01-2026",
+  "last_updated": "05:30:01 PM 09-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -178,35 +178,6 @@
       ],
       "images": {
         "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873895/list/00000000103792a2d765b460bbca79a87e0c473f0.jpg"
-      }
-    },
-    "0-1-6z5882503": {
-      "id": "0-1-6z5882503",
-      "title": "Day 17 - Preview - UPKL",
-      "description": "Watch the drama unfold on day 17 of the Uttar Pradesh Kabaddi League on 9th January 2026. Catch all the action LIVE, only on ZEE5.",
-      "genres": [
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-09T00:00:00",
-      "languages": [
-        "hi"
-      ],
-      "audioLanguages": [
-        "hi"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882503/list/1920x1080listfa6d6bfc4472487ba143fbbe0a1f9d5ddeac19d4b0a94762a9d119ae669b677a.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882503/cover/1920x770b972fca7f4d9473e9996ce849260b078e6a8f95915db4edf92867461d28bb6d5.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882503/appCover/1920x1080appcoverb211101bec064de3933bd7c35d1316588ff5ed2fa4b04d0898530baf2f44149e.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882503/verticalBanner/845x10806a9edf6f07be4f708a892f76f6289c9b7a247dfbb3334bd99c79b7c9f662d793.jpg"
       }
     },
     "0-1-6z5873883": {
