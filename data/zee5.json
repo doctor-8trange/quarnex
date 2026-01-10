@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "05:30:01 PM 10-01-2026",
+  "last_updated": "05:45:08 PM 10-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -18,77 +18,72 @@
   },
   "matches": [
     {
-      "id": "0-1-6z5873781",
-      "title": "Northbengal United Fc Vs Fc Medinipur",
-      "description": "37th match of the ongoing The Bengal Super League between Northbengal United Fc and Fc Medinipur.",
+      "id": "0-1-6z5882427",
+      "title": "Uttar Pradesh Kabaddi League Season 2",
+      "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
       "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
         {
           "id": "Event",
           "value": "Event"
         },
         {
-          "id": "Action",
-          "value": "Action"
+          "id": "Sports",
+          "value": "Sports"
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
       "releaseDate": "2026-01-10",
       "languages": [
-        "bengali",
+        "hindi",
         "english"
       ],
       "audioLanguages": [
-        "bn",
+        "hi",
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873781/list/1920x1080list3f7d64fe25ff43ed9aac22470b4fd94ecbf3c5d4c91046e384c0243ea88bdec7.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873781/cover/1920x7701b4636f3cb3d4d2c87a0c90cf460c2fdf963d24067a34a2f98699cb6a0d005f2.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873781/appCover/1920x1080appcover56e300d77e66475eb0ee045ba696bd9f9e6447551bb54f22ad092338e8f097dd.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873781/sticker/1920x457c7a78863242c47fda72b1fbd185779b350b3a3f641414a50acf9cbd5d746eb83.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873781/verticalBanner/845x1080e8e9f225385c4306a67b953ff684c8ed30ca0ea317a54ce887f37ab6b21eadc9.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/list/1920x1080lista24adb8c2f8a4d48bc88c1273874f2b99d1c8e7c162c42b6846e68d560ebee30.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/cover/1920x770363938c414e344be9413bee857bf856055c64c311d7f451894cbd224e70eb034.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/appCover/1920x1080appcovere895c2a74fe64bd2bf3aca4b3bfd99dae64080b47c71467b9db63a74a608df5b.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5882427/verticalBanner/845x10803c8163bac3dd42de990c438fd86a3a465599b8e745d54871b235714c8dd5cd7a.jpg"
       },
       "playback": {
-        "bengali": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+        "hindi": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109039/UPKL-HIN/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873781",
-              "title": "Northbengal United Fc Vs Fc Medinipur",
-              "description": "37th match of the ongoing The Bengal Super League between Northbengal United Fc and Fc Medinipur.",
-              "short_desc": "37th match of the ongoing The Bengal Super League between Northbengal United Fc and Fc Medinipur.",
+              "id": "0-1-6z5882427",
+              "title": "Uttar Pradesh Kabaddi League Season 2",
+              "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "short_desc": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
               "release_date": "2026-01-10T00:00:00",
               "duration": 0,
               "age_rating": "U",
-              "genre": "Sports",
+              "genre": "Event",
               "language_audio": [
-                "bn",
+                "hi",
                 "en"
               ],
               "language_text": [
-                "bn",
+                "hi",
                 "en"
               ]
             },
             "context": {
               "show_id": null,
               "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 37,
-              "content_category": "Football",
+              "season_id": "0-2-5z5878943",
+              "order_id": 1,
+              "content_category": "Kabbadi",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873781/list/270x152/1920x1080list3f7d64fe25ff43ed9aac22470b4fd94ecbf3c5d4c91046e384c0243ea88bdec7.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873781/portrait/720x1080withlogoc61e1c6ae0794e8b9f05209a808b387ad9d9dbe868ef4665aa558da16e4a5f75.jpg",
-              "banner_tv": "3840x2160tvbanner0a90deb9a7ff4000aabe5522953322c020d935d498be44e5b633de809e7d3e75",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080lista24adb8c2f8a4d48bc88c1273874f2b99d1c8e7c162c42b6846e68d560ebee30.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogo5b2dbc52702440d09cf62ab703aec6fcac43362b1577427187d9ba81b78f6550.jpg",
+              "banner_tv": "3840x2160tvbanner391bbe461ecf4554b36c557b2af0ed0a3ba42f44287042faa108568b9e3bcfce",
               "square_icon": "",
-              "list_view": "1920x1080list3f7d64fe25ff43ed9aac22470b4fd94ecbf3c5d4c91046e384c0243ea88bdec7.jpg"
+              "list_view": "1920x1080lista24adb8c2f8a4d48bc88c1273874f2b99d1c8e7c162c42b6846e68d560ebee30.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -96,47 +91,47 @@
               "target_audience": [],
               "broadcast_state": "",
               "dub_available": false,
-              "user_published": "Vivek Halder",
-              "publish_time": "10-01-2026 12:47:42 PM"
+              "user_published": "Sanjana Khanvil",
+              "publish_time": "10-01-2026 04:30:07 PM"
             }
           }
         },
         "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122015/UPKL-ENG/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873781",
-              "title": "Northbengal United Fc Vs Fc Medinipur",
-              "description": "37th match of the ongoing The Bengal Super League between Northbengal United Fc and Fc Medinipur.",
-              "short_desc": "37th match of the ongoing The Bengal Super League between Northbengal United Fc and Fc Medinipur.",
+              "id": "0-1-6z5882427",
+              "title": "Uttar Pradesh Kabaddi League Season 2",
+              "description": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
+              "short_desc": " Kabaddi, in Uttar Pradesh, is a reflection of the state's strength, pride, and tradition. The Uttar Pradesh Kabaddi League is back to foster local talent and promote the sport across the country.&nbsp;",
               "release_date": "2026-01-10T00:00:00",
               "duration": 0,
               "age_rating": "U",
-              "genre": "Sports",
+              "genre": "Event",
               "language_audio": [
-                "bn",
+                "hi",
                 "en"
               ],
               "language_text": [
-                "bn",
+                "hi",
                 "en"
               ]
             },
             "context": {
               "show_id": null,
               "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 37,
-              "content_category": "Football",
+              "season_id": "0-2-5z5878943",
+              "order_id": 1,
+              "content_category": "Kabbadi",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873781/list/270x152/1920x1080list3f7d64fe25ff43ed9aac22470b4fd94ecbf3c5d4c91046e384c0243ea88bdec7.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873781/portrait/720x1080withlogoc61e1c6ae0794e8b9f05209a808b387ad9d9dbe868ef4665aa558da16e4a5f75.jpg",
-              "banner_tv": "3840x2160tvbanner0a90deb9a7ff4000aabe5522953322c020d935d498be44e5b633de809e7d3e75",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5882427/list/270x152/1920x1080lista24adb8c2f8a4d48bc88c1273874f2b99d1c8e7c162c42b6846e68d560ebee30.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5882427/portrait/720x1080withlogo5b2dbc52702440d09cf62ab703aec6fcac43362b1577427187d9ba81b78f6550.jpg",
+              "banner_tv": "3840x2160tvbanner391bbe461ecf4554b36c557b2af0ed0a3ba42f44287042faa108568b9e3bcfce",
               "square_icon": "",
-              "list_view": "1920x1080list3f7d64fe25ff43ed9aac22470b4fd94ecbf3c5d4c91046e384c0243ea88bdec7.jpg"
+              "list_view": "1920x1080lista24adb8c2f8a4d48bc88c1273874f2b99d1c8e7c162c42b6846e68d560ebee30.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -144,8 +139,8 @@
               "target_audience": [],
               "broadcast_state": "",
               "dub_available": false,
-              "user_published": "Vivek Halder",
-              "publish_time": "10-01-2026 12:47:42 PM"
+              "user_published": "Sanjana Khanvil",
+              "publish_time": "10-01-2026 04:30:07 PM"
             }
           }
         }
