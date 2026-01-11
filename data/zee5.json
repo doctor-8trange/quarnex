@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "07:30:01 PM 11-01-2026",
+  "last_updated": "07:45:00 PM 11-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,7 +16,142 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "0-1-6z5873771",
+      "title": "Kopa Tigers Birbhum Vs Howrah Hooghly Warriors",
+      "description": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-11",
+      "languages": [
+        "bengali",
+        "english"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/list/1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/cover/1920x770035d45d83192407897d585475770208dec9093b08f7c42918abbc7e2aaddf75b.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/appCover/1920x1080appcovera8a3b7e940d845cbabee93f144f58f2897117f1addcc441192cffd50e9f4419f.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/sticker/1920x457195f903603644515b300092d1ac66153d2406be5c06b4cdb9c959e1119a08abf.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/verticalBanner/845x1080fbc03d94a43f4f8cb7541d547315fa1f693abc6d74ad424da31e2ad55cd50546.jpg"
+      },
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M02/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873771",
+              "title": "Kopa Tigers Birbhum Vs Howrah Hooghly Warriors",
+              "description": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
+              "short_desc": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
+              "release_date": "2026-01-11T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 39,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873771/list/270x152/1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873771/portrait/720x1080withlogo2c308c22062f4215bbc1f9d65184ce243fbb0e74dfbb401f9bc70004cafa2321.jpg",
+              "banner_tv": "3840x2160tvbannerde4ff311353749eb8aaf20ed474204085cd0c64f1e864f2d86ccd01e4f6c77de",
+              "square_icon": "",
+              "list_view": "1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "11-01-2026 03:45:05 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M02/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873771",
+              "title": "Kopa Tigers Birbhum Vs Howrah Hooghly Warriors",
+              "description": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
+              "short_desc": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
+              "release_date": "2026-01-11T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 39,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873771/list/270x152/1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873771/portrait/720x1080withlogo2c308c22062f4215bbc1f9d65184ce243fbb0e74dfbb401f9bc70004cafa2321.jpg",
+              "banner_tv": "3840x2160tvbannerde4ff311353749eb8aaf20ed474204085cd0c64f1e864f2d86ccd01e4f6c77de",
+              "square_icon": "",
+              "list_view": "1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "11-01-2026 03:45:05 PM"
+            }
+          }
+        }
+      }
+    }
+  ],
   "upcoming": {
     "0-1-6z5873895": {
       "id": "0-1-6z5873895",
@@ -152,6 +287,5 @@
         "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5878246/list/0000000003aabb1c46ff9e41e384c018cec03e0bde.jpg"
       }
     }
-  },
-  "status": "Offline / No Matches"
+  }
 }
