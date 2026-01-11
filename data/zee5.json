@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "03:45:02 PM 11-01-2026",
+  "last_updated": "04:00:09 PM 11-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -18,9 +18,9 @@
   },
   "matches": [
     {
-      "id": "0-1-6z5873763",
-      "title": "Sundarban Bengal Auto Fc Vs Jhr Royal City Fc Malda",
-      "description": "38th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Jhr Royal City Fc Malda.",
+      "id": "0-1-6z5873771",
+      "title": "Kopa Tigers Birbhum Vs Howrah Hooghly Warriors",
+      "description": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
       "genres": [
         {
           "id": "Sports",
@@ -46,22 +46,22 @@
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873763/list/1920x1080lista6db29025241445788352297f3630695446873c012bc4f589d851019771d7a39.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873763/cover/1920x770685f9dbf7e8c473380f6e6b342d118b8d1defeb7204e4794bfe9edec73e6a872.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873763/appCover/1920x1080appcover005d0e8817ba42b2b30c4c58dc211a3621d67e8eaa6143a7a7a2022f579adce7.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873763/sticker/1920x457835862cd025f4fa5895be9f93e17325fc779ed2a7a58486298a54de9dc429a60.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873763/verticalBanner/845x1080097276c3e25441db97cb904734822c196c4d0a868a5f4f00b7bf2feb824349da.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/list/1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/cover/1920x770035d45d83192407897d585475770208dec9093b08f7c42918abbc7e2aaddf75b.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/appCover/1920x1080appcovera8a3b7e940d845cbabee93f144f58f2897117f1addcc441192cffd50e9f4419f.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/sticker/1920x457195f903603644515b300092d1ac66153d2406be5c06b4cdb9c959e1119a08abf.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873771/verticalBanner/845x1080fbc03d94a43f4f8cb7541d547315fa1f693abc6d74ad424da31e2ad55cd50546.jpg"
       },
       "playback": {
         "bengali": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M02/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873763",
-              "title": "Sundarban Bengal Auto Fc Vs Jhr Royal City Fc Malda",
-              "description": "38th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Jhr Royal City Fc Malda.",
-              "short_desc": "38th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Jhr Royal City Fc Malda.",
+              "id": "0-1-6z5873771",
+              "title": "Kopa Tigers Birbhum Vs Howrah Hooghly Warriors",
+              "description": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
+              "short_desc": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
               "release_date": "2026-01-11T00:00:00",
               "duration": 0,
               "age_rating": "U",
@@ -79,16 +79,16 @@
               "show_id": null,
               "show_title": null,
               "season_id": "0-2-5z5868790",
-              "order_id": 38,
+              "order_id": 39,
               "content_category": "Football",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873763/list/270x152/1920x1080lista6db29025241445788352297f3630695446873c012bc4f589d851019771d7a39.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873763/portrait/720x1080withlogo92db9412727444eb8550c7015172f0f633e3f53dbaad4150a2f63526ea784ef1.jpg",
-              "banner_tv": "3840x2160tvbanner99309257fea940e496c9355f78f2b95a1f9e1f3d90a54561b5a757861ff8f115",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873771/list/270x152/1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873771/portrait/720x1080withlogo2c308c22062f4215bbc1f9d65184ce243fbb0e74dfbb401f9bc70004cafa2321.jpg",
+              "banner_tv": "3840x2160tvbannerde4ff311353749eb8aaf20ed474204085cd0c64f1e864f2d86ccd01e4f6c77de",
               "square_icon": "",
-              "list_view": "1920x1080lista6db29025241445788352297f3630695446873c012bc4f589d851019771d7a39.jpg"
+              "list_view": "1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -97,19 +97,19 @@
               "broadcast_state": "",
               "dub_available": false,
               "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "11-01-2026 12:45:10 PM"
+              "publish_time": "11-01-2026 03:45:05 PM"
             }
           }
         },
         "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M02/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
-              "id": "0-1-6z5873763",
-              "title": "Sundarban Bengal Auto Fc Vs Jhr Royal City Fc Malda",
-              "description": "38th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Jhr Royal City Fc Malda.",
-              "short_desc": "38th match of the ongoing The Bengal Super League between Sundarban Bengal Auto Fc and Jhr Royal City Fc Malda.",
+              "id": "0-1-6z5873771",
+              "title": "Kopa Tigers Birbhum Vs Howrah Hooghly Warriors",
+              "description": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
+              "short_desc": "39th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Howrah Hooghly Warriors.",
               "release_date": "2026-01-11T00:00:00",
               "duration": 0,
               "age_rating": "U",
@@ -127,16 +127,16 @@
               "show_id": null,
               "show_title": null,
               "season_id": "0-2-5z5868790",
-              "order_id": 38,
+              "order_id": 39,
               "content_category": "Football",
               "is_original": false
             },
             "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873763/list/270x152/1920x1080lista6db29025241445788352297f3630695446873c012bc4f589d851019771d7a39.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873763/portrait/720x1080withlogo92db9412727444eb8550c7015172f0f633e3f53dbaad4150a2f63526ea784ef1.jpg",
-              "banner_tv": "3840x2160tvbanner99309257fea940e496c9355f78f2b95a1f9e1f3d90a54561b5a757861ff8f115",
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873771/list/270x152/1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873771/portrait/720x1080withlogo2c308c22062f4215bbc1f9d65184ce243fbb0e74dfbb401f9bc70004cafa2321.jpg",
+              "banner_tv": "3840x2160tvbannerde4ff311353749eb8aaf20ed474204085cd0c64f1e864f2d86ccd01e4f6c77de",
               "square_icon": "",
-              "list_view": "1920x1080lista6db29025241445788352297f3630695446873c012bc4f589d851019771d7a39.jpg"
+              "list_view": "1920x1080list8dfc01481d0c478595d2a34858f7c6dda19af98aa0834af484ac62fa66ba8c52.jpg"
             },
             "extra": {
               "content_owner": "Zee Entertainment Enterprises Limited",
@@ -145,7 +145,7 @@
               "broadcast_state": "",
               "dub_available": false,
               "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "11-01-2026 12:45:10 PM"
+              "publish_time": "11-01-2026 03:45:05 PM"
             }
           }
         }
