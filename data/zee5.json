@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "08:15:01 PM 11-01-2026",
+  "last_updated": "04:30:07 PM 12-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,12 +16,11 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": [],
-  "upcoming": {
-    "0-1-6z5873895": {
-      "id": "0-1-6z5873895",
-      "title": "Northbengal United Fc Vs Fc Medinipur - Preview",
-      "description": "Watch the drama unfold in match 37 of The Bengal Super League between Northbengal United Fc and Fc Medinipur on 10th Jan 2026 04:00 PM IST,",
+  "matches": [
+    {
+      "id": "0-1-6z5873789",
+      "title": "Burdwan Blasters Vs North 24 Parganas Fc",
+      "description": "40th match of the ongoing The Bengal Super League between Burdwan Blasters and North 24 Parganas Fc.",
       "genres": [
         {
           "id": "Sports",
@@ -37,19 +36,123 @@
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-10T00:00:00",
+      "releaseDate": "2026-01-12",
       "languages": [
-        "bn",
-        "en"
+        "bengali",
+        "english"
       ],
       "audioLanguages": [
         "bn",
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873895/list/00000000103792a2d765b460bbca79a87e0c473f0.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873789/list/1920x1080list5f05778c133b4fc0a22a72c0266ba522faf703600089472a9f57fe0769a45515.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873789/cover/1920x770a62475d4b5f746c887acc76d7e681401777ceecd334f4f3e99b5baa17ff6d192.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873789/appCover/1920x1080appcover81bb3e94d0cf4462a31fd341998bcd583736d618b98649d4a5129da717050a40.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873789/sticker/1920x457f32f4ac2fd5f4b58ad481ce31a8c40825f830285afc346c5958816c46d7f3953.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873789/verticalBanner/845x1080e483bbe362e14574a593707a61777dbebd3f4edf093643b09316e9a50631cdc2.jpg"
+      },
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873789",
+              "title": "Burdwan Blasters Vs North 24 Parganas Fc",
+              "description": "40th match of the ongoing The Bengal Super League between Burdwan Blasters and North 24 Parganas Fc.",
+              "short_desc": "40th match of the ongoing The Bengal Super League between Burdwan Blasters and North 24 Parganas Fc.",
+              "release_date": "2026-01-12T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 40,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873789/list/270x152/1920x1080list5f05778c133b4fc0a22a72c0266ba522faf703600089472a9f57fe0769a45515.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873789/portrait/720x1080withlogo37786da1e7b14a67b747d154e0f56b4db7e4dc262b8e48689ab70397cac7d672.jpg",
+              "banner_tv": "3840x2160tvbanner007bbb5d26f14696aff81bc1014df7212e8d804fd385406087515a02b5b64234",
+              "square_icon": "",
+              "list_view": "1920x1080list5f05778c133b4fc0a22a72c0266ba522faf703600089472a9f57fe0769a45515.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Haresh Naik",
+              "publish_time": "12-01-2026 04:06:18 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873789",
+              "title": "Burdwan Blasters Vs North 24 Parganas Fc",
+              "description": "40th match of the ongoing The Bengal Super League between Burdwan Blasters and North 24 Parganas Fc.",
+              "short_desc": "40th match of the ongoing The Bengal Super League between Burdwan Blasters and North 24 Parganas Fc.",
+              "release_date": "2026-01-12T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 40,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873789/list/270x152/1920x1080list5f05778c133b4fc0a22a72c0266ba522faf703600089472a9f57fe0769a45515.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873789/portrait/720x1080withlogo37786da1e7b14a67b747d154e0f56b4db7e4dc262b8e48689ab70397cac7d672.jpg",
+              "banner_tv": "3840x2160tvbanner007bbb5d26f14696aff81bc1014df7212e8d804fd385406087515a02b5b64234",
+              "square_icon": "",
+              "list_view": "1920x1080list5f05778c133b4fc0a22a72c0266ba522faf703600089472a9f57fe0769a45515.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Haresh Naik",
+              "publish_time": "12-01-2026 04:06:18 PM"
+            }
+          }
+        }
       }
-    },
+    }
+  ],
+  "upcoming": {
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
@@ -152,6 +255,5 @@
         "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5878246/list/0000000003aabb1c46ff9e41e384c018cec03e0bde.jpg"
       }
     }
-  },
-  "status": "Offline / No Matches"
+  }
 }
