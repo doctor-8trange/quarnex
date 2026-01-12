@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:30:07 PM 12-01-2026",
+  "last_updated": "04:45:01 PM 12-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -153,6 +153,38 @@
     }
   ],
   "upcoming": {
+    "0-1-6z5873895": {
+      "id": "0-1-6z5873895",
+      "title": "Northbengal United Fc Vs Fc Medinipur - Preview",
+      "description": "Watch the drama unfold in match 37 of The Bengal Super League between Northbengal United Fc and Fc Medinipur on 10th Jan 2026 04:00 PM IST,",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-10T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873895/list/00000000103792a2d765b460bbca79a87e0c473f0.jpg"
+      }
+    },
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
