@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "01:00:06 PM 15-01-2026",
+  "last_updated": "01:15:01 PM 15-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -153,42 +153,6 @@
     }
   ],
   "upcoming": {
-    "0-1-6z5873882": {
-      "id": "0-1-6z5873882",
-      "title": "Fc Medinipur Vs Burdwan Blasters - Preview",
-      "description": "Watch the drama unfold in match 44 of The Bengal Super League between Fc Medinipur and Burdwan Blasters on 15th Jan 2026 01:00 PM IST,",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Action",
-          "value": "Action"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-15T00:00:00",
-      "languages": [
-        "bn",
-        "en"
-      ],
-      "audioLanguages": [
-        "bn",
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873882/list/1920x1080list851c7f44d9e541b598ce5fb2de80ead2766f024e0cc74d069f70e419561181f1.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873882/cover/1920x770e9a159d016f04d7782a8bbe38c25872aadb1b6fc2f0b4ed5a53a283bdeb63da1.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873882/appCover/1920x1080appcover0563036abf0445b28582b1b236f95f9304c0317638164be99746f16427c64495.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873882/sticker/1920x457ec6db4ec642f47e1a6f541b576250e1442a622f361094cd9bb2e3e30df738aff.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873882/verticalBanner/845x10808eb1aa9e590c4d0abbcf07088a9d0f207b73005807b54b9f969af7ad8ce6920f.jpg"
-      }
-    },
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
