@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:00:01 PM 15-01-2026",
+  "last_updated": "01:00:06 PM 16-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,8 +16,179 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "0-1-6z5873775",
+      "title": "Howrah Hooghly Warriors Vs Northbengal United Fc",
+      "description": "45th match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Northbengal United Fc.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-16",
+      "languages": [
+        "bengali",
+        "english"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873775/list/1920x1080list6073cadd28b64e85b9ecb14203cc5e571f1f920eba064f3c8c9589d00dff0775.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873775/cover/1920x770535dcf065ae343c09d50dd04f60bee33e286d548bffa40709d285991270c4765.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873775/appCover/1920x1080appcover34bbc865edc24d60b76619b2b18f88336126041f2e284030998e2a748d9982c1.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873775/sticker/1920x457665886fc333847e8b16a13eefa3ab5bafd1ad30bd8bd4f5c980fa1e17f83ebcb.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873775/verticalBanner/845x10802f0839a0d1ae41d28b4347c450e9c4ef92fb5ce5ef434ae796cab83bcf08e7ca.jpg"
+      },
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873775",
+              "title": "Howrah Hooghly Warriors Vs Northbengal United Fc",
+              "description": "45th match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Northbengal United Fc.",
+              "short_desc": "45th match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Northbengal United Fc.",
+              "release_date": "2026-01-16T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 44,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873775/list/270x152/1920x1080list6073cadd28b64e85b9ecb14203cc5e571f1f920eba064f3c8c9589d00dff0775.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873775/portrait/720x1080withlogo7c0680bffbe7406685b8009af3c5b463369972fec0e54ee39b6a2dd10a494efc.jpg",
+              "banner_tv": "3840x2160tvbannerd6fdac731db94cb789ccee972caa3abbb14679c3d1ae43e6bcd6b42084ea6296",
+              "square_icon": "",
+              "list_view": "1920x1080list6073cadd28b64e85b9ecb14203cc5e571f1f920eba064f3c8c9589d00dff0775.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "16-01-2026 12:45:05 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873775",
+              "title": "Howrah Hooghly Warriors Vs Northbengal United Fc",
+              "description": "45th match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Northbengal United Fc.",
+              "short_desc": "45th match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Northbengal United Fc.",
+              "release_date": "2026-01-16T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 44,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873775/list/270x152/1920x1080list6073cadd28b64e85b9ecb14203cc5e571f1f920eba064f3c8c9589d00dff0775.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873775/portrait/720x1080withlogo7c0680bffbe7406685b8009af3c5b463369972fec0e54ee39b6a2dd10a494efc.jpg",
+              "banner_tv": "3840x2160tvbannerd6fdac731db94cb789ccee972caa3abbb14679c3d1ae43e6bcd6b42084ea6296",
+              "square_icon": "",
+              "list_view": "1920x1080list6073cadd28b64e85b9ecb14203cc5e571f1f920eba064f3c8c9589d00dff0775.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "16-01-2026 12:45:05 PM"
+            }
+          }
+        }
+      }
+    }
+  ],
   "upcoming": {
+    "0-1-6z5873906": {
+      "id": "0-1-6z5873906",
+      "title": "Howrah Hooghly Warriors Vs Northbengal United Fc - Preview",
+      "description": "Watch the drama unfold in match 45 of The Bengal Super League between Howrah Hooghly Warriors and Northbengal United Fc on 16th Jan 2026 01:00 PM IST,",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-16T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/list/1920x1080list511b87d9e1e143e397892f1fcbd5730586c3e8392f0140f1addcba4679407321.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/cover/1920x770901655fff15d4a539a47a7efa461d6fa8abd5e02a98c4b1098f73e4d8ba16bdf.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/appCover/1920x1080appcover962efc1e6a6447118bc6c2d7339abfe11bdb71990d6b406da6c953a5933f444b.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/sticker/1920x4574e7903f2c3d34d818332a61174ec0dbad44e0141993b461d81bd2b204685dd9b.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/verticalBanner/845x1080aef3c418f02d439b99be67348112dec757d9ea99c6574bbabd76739d08ff5eb0.jpg"
+      }
+    },
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
@@ -89,37 +260,6 @@
         "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/sticker/1920x457c126a06bdfc9430487e400ff0e8ee997edec3b291e604c4aa79712f1e9a25799.jpg",
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/verticalBanner/845x10804b93e5600a724c58846618e34668d92994f98ff0b2e74b949a6bc010d50ea378.jpg"
       }
-    },
-    "0-1-6z5878246": {
-      "id": "0-1-6z5878246",
-      "title": "Day 6 - Preview - GSPL",
-      "description": "Watch the drama unfold in day 6 of GSPL, the biggest Pickleball league and Grand Slam on 22nd Dec 2025. Catch all the drama LIVE, only on ZEE5.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Action",
-          "value": "Action"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2025-12-22T00:00:00",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5878246/list/0000000003aabb1c46ff9e41e384c018cec03e0bde.jpg"
-      }
     }
-  },
-  "status": "Offline / No Matches"
+  }
 }
