@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:00:00 PM 17-01-2026",
+  "last_updated": "06:15:01 PM 17-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -153,6 +153,42 @@
     }
   ],
   "upcoming": {
+    "0-1-6z5873879": {
+      "id": "0-1-6z5873879",
+      "title": "Sundarban Bengal Auto Fc Vs North 24 Parganas Fc - Preview",
+      "description": "Watch the drama unfold in match 48 of The Bengal Super League between Sundarban Bengal Auto Fc and North 24 Parganas Fc on 18th Jan 2026 01:00 PM IST,",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-18T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873879/list/1920x1080list19d932f609864b29adf66520a6e5300b6a282a7ab59a491783a71fe7568e8d4b.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873879/cover/1920x770be95703a3ef64eff89010f3788b900880bb7ad3ec6d4490e83cb14ae918ea705.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873879/appCover/1920x1080appcover142cc40ea6cc4c0691b3ae459a580f7934c1e416b66b478b83b6d4a65f0fd0fb.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873879/sticker/1920x457d728a84db2aa4c0090c454272deb8eaf7ce217239ae744e590d4cea0b61f6693.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873879/verticalBanner/845x1080b2c5de0fa2b94606a3cf2751c0c5e729ec876a01398d4dbe8527eb6eab341199.jpg"
+      }
+    },
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
