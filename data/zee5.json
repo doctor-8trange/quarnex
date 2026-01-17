@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:00:01 PM 16-01-2026",
+  "last_updated": "01:15:02 PM 17-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,12 +16,11 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": [],
-  "upcoming": {
-    "0-1-6z5873906": {
-      "id": "0-1-6z5873906",
-      "title": "Howrah Hooghly Warriors Vs Northbengal United Fc - Preview",
-      "description": "Watch the drama unfold in match 45 of The Bengal Super League between Howrah Hooghly Warriors and Northbengal United Fc on 16th Jan 2026 01:00 PM IST,",
+  "matches": [
+    {
+      "id": "0-1-6z5873772",
+      "title": "Jhr Royal City Fc Malda | Murshidabad Vs Fc Medinipur",
+      "description": "46th match of the ongoing The Bengal Super League between Jhr Royal City Fc Malda | Murshidabad and Fc Medinipur.",
       "genres": [
         {
           "id": "Sports",
@@ -37,7 +36,143 @@
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-16T00:00:00",
+      "releaseDate": "2026-01-17",
+      "languages": [
+        "bengali",
+        "english"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873772/list/1920x1080listea968c86594b445e840ce1814c541b4b93fce0536c31443685009c3383404c51.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873772/cover/1920x770672645072ee64e0683356a845ddbb58fd9a55464f59c44e380613d282d3b6d14.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873772/appCover/1920x1080appcoverebd1a17b004c477cb64d228388caeccca6c8f9f886f945bbb29823a9d32ce78d.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873772/sticker/1920x45771d01c8eb1254909b7af395edb93051324e174d508fe45159ce40241aae87bb5.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873772/verticalBanner/845x1080d21af1c2181d4fd0bacc2273059df9b8aeee711550594d9c9632733f6c48773c.jpg"
+      },
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873772",
+              "title": "Jhr Royal City Fc Malda | Murshidabad Vs Fc Medinipur",
+              "description": "46th match of the ongoing The Bengal Super League between Jhr Royal City Fc Malda | Murshidabad and Fc Medinipur.",
+              "short_desc": "46th match of the ongoing The Bengal Super League between Jhr Royal City Fc Malda | Murshidabad and Fc Medinipur.",
+              "release_date": "2026-01-17T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 45,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873772/list/270x152/1920x1080listea968c86594b445e840ce1814c541b4b93fce0536c31443685009c3383404c51.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873772/portrait/720x1080withlogo190f9d249edb4350a38ed42a6ea2acdda3ac49f1f53c4d4a91ac444574f32b9f.jpg",
+              "banner_tv": "3840x2160tvbanner5230a827eaba417ba485d447f459536323ade268137040b8ba36227ccdb6eda9",
+              "square_icon": "",
+              "list_view": "1920x1080listea968c86594b445e840ce1814c541b4b93fce0536c31443685009c3383404c51.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "17-01-2026 12:45:09 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873772",
+              "title": "Jhr Royal City Fc Malda | Murshidabad Vs Fc Medinipur",
+              "description": "46th match of the ongoing The Bengal Super League between Jhr Royal City Fc Malda | Murshidabad and Fc Medinipur.",
+              "short_desc": "46th match of the ongoing The Bengal Super League between Jhr Royal City Fc Malda | Murshidabad and Fc Medinipur.",
+              "release_date": "2026-01-17T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 45,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873772/list/270x152/1920x1080listea968c86594b445e840ce1814c541b4b93fce0536c31443685009c3383404c51.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873772/portrait/720x1080withlogo190f9d249edb4350a38ed42a6ea2acdda3ac49f1f53c4d4a91ac444574f32b9f.jpg",
+              "banner_tv": "3840x2160tvbanner5230a827eaba417ba485d447f459536323ade268137040b8ba36227ccdb6eda9",
+              "square_icon": "",
+              "list_view": "1920x1080listea968c86594b445e840ce1814c541b4b93fce0536c31443685009c3383404c51.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "17-01-2026 12:45:09 PM"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "upcoming": {
+    "0-1-6z5873872": {
+      "id": "0-1-6z5873872",
+      "title": "Day 35 - Bengal Super League - Preview",
+      "description": "Get ready for a double dose of energy as the drama unfolds in the back-to-back matches on day 17th Jan 2026 of the Bengal Super League! Watch all the action LIVE on ZEE5. ",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-17T00:00:00",
       "languages": [
         "bn",
         "en"
@@ -47,11 +182,11 @@
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/list/1920x1080list511b87d9e1e143e397892f1fcbd5730586c3e8392f0140f1addcba4679407321.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/cover/1920x770901655fff15d4a539a47a7efa461d6fa8abd5e02a98c4b1098f73e4d8ba16bdf.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/appCover/1920x1080appcover962efc1e6a6447118bc6c2d7339abfe11bdb71990d6b406da6c953a5933f444b.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/sticker/1920x4574e7903f2c3d34d818332a61174ec0dbad44e0141993b461d81bd2b204685dd9b.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873906/verticalBanner/845x1080aef3c418f02d439b99be67348112dec757d9ea99c6574bbabd76739d08ff5eb0.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873872/list/1920x1080listc43fbb64b07f4cd7974fc7f656ec800603db31ac788f4eebb601defad037be6e.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873872/cover/1920x770713773cb8e1648d383690b1127a8755fb647c832ccf5402bbb3ddef4b178926d.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873872/appCover/1920x1080appcover8bf62e5addd24946ac27e38a7d4b36a768c3a278a4f543cd825c4ae80e02daf0.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873872/sticker/1920x4576f52610f6f3146ef9a00f742f67075251916a855794c48efb7b9ebf5698a4cae.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873872/verticalBanner/845x1080a1f747217b354a46a16e4ea0a7f8675411de6ed092cd4680b535c0aec4c11f15.jpg"
       }
     },
     "0-1-6z5873883": {
@@ -126,6 +261,5 @@
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/verticalBanner/845x10804b93e5600a724c58846618e34668d92994f98ff0b2e74b949a6bc010d50ea378.jpg"
       }
     }
-  },
-  "status": "Offline / No Matches"
+  }
 }
