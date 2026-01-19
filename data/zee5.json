@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "03:45:00 PM 19-01-2026",
+  "last_updated": "04:00:01 PM 19-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,179 +16,8 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": [
-    {
-      "id": "0-1-6z5873764",
-      "title": "Kopa Tigers Birbhum Vs Jhr Royal City Fc Malda",
-      "description": "49th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Jhr Royal City Fc Malda.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Action",
-          "value": "Action"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-19",
-      "languages": [
-        "bengali",
-        "english"
-      ],
-      "audioLanguages": [
-        "bn",
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873764/list/1920x1080listf8b3d5c56e5c432ab3fa1f678b99ce557eddbd921d1f4d58ab00c94ce6399fa4.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873764/cover/1920x770f83bbb97757940fb9411cd7057317ab9ffb6495944be4d229fcf3b1655e69e0c.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873764/appCover/1920x1080appcover753339a38e9a4423a50bf3f69afc9bf89fdd26efefb34f71ad6afa59e8d00426.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873764/sticker/1920x457c0c87b87929945f8a3c085a2e1391a6ef8f4a9298170468ca3d3edc4667eb85f.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873764/verticalBanner/845x10804a0ecc1a38c84c0e94bcee761a81660bc270b3a176844ffcb6eeaa511eb6d0f5.jpg"
-      },
-      "playback": {
-        "bengali": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "playbackDetail": {
-            "basicInfo": {
-              "id": "0-1-6z5873764",
-              "title": "Kopa Tigers Birbhum Vs Jhr Royal City Fc Malda",
-              "description": "49th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Jhr Royal City Fc Malda.",
-              "short_desc": "49th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Jhr Royal City Fc Malda.",
-              "release_date": "2026-01-19T00:00:00",
-              "duration": 0,
-              "age_rating": "U",
-              "genre": "Sports",
-              "language_audio": [
-                "bn",
-                "en"
-              ],
-              "language_text": [
-                "bn",
-                "en"
-              ]
-            },
-            "context": {
-              "show_id": null,
-              "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 48,
-              "content_category": "Football",
-              "is_original": false
-            },
-            "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873764/list/270x152/1920x1080listf8b3d5c56e5c432ab3fa1f678b99ce557eddbd921d1f4d58ab00c94ce6399fa4.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873764/portrait/720x1080withlogo43520598bbd246c1a65e98cf665dc852f08f43b667e948e2a560d18ccebac4e5.jpg",
-              "banner_tv": "3840x2160tvbannera975cf9aaa5842659066d1d87c27685b4cccac43f5574a108a7d36846a74f23b",
-              "square_icon": "",
-              "list_view": "1920x1080listf8b3d5c56e5c432ab3fa1f678b99ce557eddbd921d1f4d58ab00c94ce6399fa4.jpg"
-            },
-            "extra": {
-              "content_owner": "Zee Entertainment Enterprises Limited",
-              "business_type": "advertisement_downloadable",
-              "target_audience": [],
-              "broadcast_state": "",
-              "dub_available": false,
-              "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "19-01-2026 12:45:05 PM"
-            }
-          }
-        },
-        "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "playbackDetail": {
-            "basicInfo": {
-              "id": "0-1-6z5873764",
-              "title": "Kopa Tigers Birbhum Vs Jhr Royal City Fc Malda",
-              "description": "49th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Jhr Royal City Fc Malda.",
-              "short_desc": "49th match of the ongoing The Bengal Super League between Kopa Tigers Birbhum and Jhr Royal City Fc Malda.",
-              "release_date": "2026-01-19T00:00:00",
-              "duration": 0,
-              "age_rating": "U",
-              "genre": "Sports",
-              "language_audio": [
-                "bn",
-                "en"
-              ],
-              "language_text": [
-                "bn",
-                "en"
-              ]
-            },
-            "context": {
-              "show_id": null,
-              "show_title": null,
-              "season_id": "0-2-5z5868790",
-              "order_id": 48,
-              "content_category": "Football",
-              "is_original": false
-            },
-            "images": {
-              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873764/list/270x152/1920x1080listf8b3d5c56e5c432ab3fa1f678b99ce557eddbd921d1f4d58ab00c94ce6399fa4.jpg",
-              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873764/portrait/720x1080withlogo43520598bbd246c1a65e98cf665dc852f08f43b667e948e2a560d18ccebac4e5.jpg",
-              "banner_tv": "3840x2160tvbannera975cf9aaa5842659066d1d87c27685b4cccac43f5574a108a7d36846a74f23b",
-              "square_icon": "",
-              "list_view": "1920x1080listf8b3d5c56e5c432ab3fa1f678b99ce557eddbd921d1f4d58ab00c94ce6399fa4.jpg"
-            },
-            "extra": {
-              "content_owner": "Zee Entertainment Enterprises Limited",
-              "business_type": "advertisement_downloadable",
-              "target_audience": [],
-              "broadcast_state": "",
-              "dub_available": false,
-              "user_published": "Prathamesh Gondhalkar",
-              "publish_time": "19-01-2026 12:45:05 PM"
-            }
-          }
-        }
-      }
-    }
-  ],
+  "matches": [],
   "upcoming": {
-    "0-1-6z5873884": {
-      "id": "0-1-6z5873884",
-      "title": "Day 37 - Bengal Super League - Preview",
-      "description": "Get ready for a double dose of energy as the drama unfolds in the back-to-back matches on day 19th Jan 2026 of the Bengal Super League! Watch all the action LIVE on ZEE5. ",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Action",
-          "value": "Action"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-19T00:00:00",
-      "languages": [
-        "bn",
-        "en"
-      ],
-      "audioLanguages": [
-        "bn",
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873884/list/1920x1080listf6ce0ef6f81a405888e04ec1b8f282def8e05f80fe384fb2bb42e2d23e3b9e17.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873884/cover/1920x7701e0450b496934cc8a7b533f96ec885de1a7f2a07175a4e118913dba8f110ef90.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873884/appCover/1920x1080appcover9ebbd4461936493ebc65bdaee225b7e49b8e61c5e42143a99bbb01f2a61ad8af.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873884/sticker/1920x4570a5fca5a705e4e039b026a833193349187b5c427c7164110bb5cbd8eb81dd455.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873884/verticalBanner/845x10804b2a5d4cf9774a04a08fb233ca58c52f9ec648f5b1924a15b6ef72072322a618.jpg"
-      }
-    },
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
@@ -261,5 +90,6 @@
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/verticalBanner/845x10804b93e5600a724c58846618e34668d92994f98ff0b2e74b949a6bc010d50ea378.jpg"
       }
     }
-  }
+  },
+  "status": "Offline / No Matches"
 }
