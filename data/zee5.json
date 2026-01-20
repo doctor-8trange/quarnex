@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "01:00:07 PM 20-01-2026",
+  "last_updated": "01:15:01 PM 20-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -153,42 +153,6 @@
     }
   ],
   "upcoming": {
-    "0-1-6z5873910": {
-      "id": "0-1-6z5873910",
-      "title": "Howrah Hooghly Warriors Vs Burdwan Blasters - Preview",
-      "description": "Watch the drama unfold in match 51 of The Bengal Super League between Howrah Hooghly Warriors and Burdwan Blasters on 20th Jan 2026 01:00 PM IST,",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        },
-        {
-          "id": "Event",
-          "value": "Event"
-        },
-        {
-          "id": "Action",
-          "value": "Action"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-01-20T00:00:00",
-      "languages": [
-        "bn",
-        "en"
-      ],
-      "audioLanguages": [
-        "bn",
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/list/1920x1080listd27c59cbede542909cd7c738b4fea549bb1c19a172ca49b08cd4a4f42f5c678a.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/cover/1920x77028958cab82844701949883ea59e6d4c5b18c98da745b4ad2b4b5862de6682c2e.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/appCover/1920x1080appcover82559305b3344195a8182664d9e927a4e6dcab0e5ee3402ab6cb1007c2515fdd.jpg",
-        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/sticker/1920x457f829331706404c4eb83fd34554c66b13b5fb58041f1f4a70b7da12cc6a523e07.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/verticalBanner/845x1080a81bc87ae2cf4d1cb971e98163933d24c0350f8f87c745038f1e5d0dc6c41ee4.jpg"
-      }
-    },
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
