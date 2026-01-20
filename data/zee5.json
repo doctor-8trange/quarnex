@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:00:01 PM 19-01-2026",
+  "last_updated": "01:00:07 PM 20-01-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,8 +16,179 @@
     "ALL_IN_ONE": "ON",
     "USAGE_GUIDE": []
   },
-  "matches": [],
+  "matches": [
+    {
+      "id": "0-1-6z5873799",
+      "title": "Howrah Hooghly Warriors Vs Burdwan Blasters",
+      "description": "51st match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Burdwan Blasters.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-20",
+      "languages": [
+        "bengali",
+        "english"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873799/list/1920x1080list01dc987eb4a44445a44e3db0d38921a828be58fed3dd4bbf96cabfedfb35f689.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873799/cover/1920x77032e55ee4bf0047ca87f80ef3b80cb5b35df8d4941dd54e619515a0863acf757a.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873799/appCover/1920x1080appcovere6e8de79e4504407a1ef12395112ebafd81563c49caf4c198eec1fe3afd0eb7e.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873799/sticker/1920x4579e04616baee844c1be9825682515cf8421fdbb08943d4f149b00954d22a070e3.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873799/verticalBanner/845x1080543625ca0dd84f969814122cefc1ed0d99611bc79b9a476e98e6fd86fa235076.jpg"
+      },
+      "playback": {
+        "bengali": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122014/BSL-BEN-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873799",
+              "title": "Howrah Hooghly Warriors Vs Burdwan Blasters",
+              "description": "51st match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Burdwan Blasters.",
+              "short_desc": "51st match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Burdwan Blasters.",
+              "release_date": "2026-01-20T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 49,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873799/list/270x152/1920x1080list01dc987eb4a44445a44e3db0d38921a828be58fed3dd4bbf96cabfedfb35f689.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873799/portrait/720x1080withlogo31f28bad6b584eafbb729b469edd16fce9558ece834c4a9b85326dae1787eebd.jpg",
+              "banner_tv": "3840x2160tvbanner638c588fe2884e0fbc428028c26f1c739785a4bd4d624e39a5dba4123c879f9a",
+              "square_icon": "",
+              "list_view": "1920x1080list01dc987eb4a44445a44e3db0d38921a828be58fed3dd4bbf96cabfedfb35f689.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "20-01-2026 12:45:10 PM"
+            }
+          }
+        },
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2122013/BSL-ENG-M01/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "playbackDetail": {
+            "basicInfo": {
+              "id": "0-1-6z5873799",
+              "title": "Howrah Hooghly Warriors Vs Burdwan Blasters",
+              "description": "51st match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Burdwan Blasters.",
+              "short_desc": "51st match of the ongoing The Bengal Super League between Howrah Hooghly Warriors and Burdwan Blasters.",
+              "release_date": "2026-01-20T00:00:00",
+              "duration": 0,
+              "age_rating": "U",
+              "genre": "Sports",
+              "language_audio": [
+                "bn",
+                "en"
+              ],
+              "language_text": [
+                "bn",
+                "en"
+              ]
+            },
+            "context": {
+              "show_id": null,
+              "show_title": null,
+              "season_id": "0-2-5z5868790",
+              "order_id": 49,
+              "content_category": "Football",
+              "is_original": false
+            },
+            "images": {
+              "landscape_large": "https://akamaividz.zee5.com/resources/0-1-6z5873799/list/270x152/1920x1080list01dc987eb4a44445a44e3db0d38921a828be58fed3dd4bbf96cabfedfb35f689.jpg",
+              "portrait_poster": "https://akamaividz.zee5.com/image/upload/resources/0-1-6z5873799/portrait/720x1080withlogo31f28bad6b584eafbb729b469edd16fce9558ece834c4a9b85326dae1787eebd.jpg",
+              "banner_tv": "3840x2160tvbanner638c588fe2884e0fbc428028c26f1c739785a4bd4d624e39a5dba4123c879f9a",
+              "square_icon": "",
+              "list_view": "1920x1080list01dc987eb4a44445a44e3db0d38921a828be58fed3dd4bbf96cabfedfb35f689.jpg"
+            },
+            "extra": {
+              "content_owner": "Zee Entertainment Enterprises Limited",
+              "business_type": "advertisement_downloadable",
+              "target_audience": [],
+              "broadcast_state": "",
+              "dub_available": false,
+              "user_published": "Prathamesh Gondhalkar",
+              "publish_time": "20-01-2026 12:45:10 PM"
+            }
+          }
+        }
+      }
+    }
+  ],
   "upcoming": {
+    "0-1-6z5873910": {
+      "id": "0-1-6z5873910",
+      "title": "Howrah Hooghly Warriors Vs Burdwan Blasters - Preview",
+      "description": "Watch the drama unfold in match 51 of The Bengal Super League between Howrah Hooghly Warriors and Burdwan Blasters on 20th Jan 2026 01:00 PM IST,",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        },
+        {
+          "id": "Event",
+          "value": "Event"
+        },
+        {
+          "id": "Action",
+          "value": "Action"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "releaseDate": "2026-01-20T00:00:00",
+      "languages": [
+        "bn",
+        "en"
+      ],
+      "audioLanguages": [
+        "bn",
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/list/1920x1080listd27c59cbede542909cd7c738b4fea549bb1c19a172ca49b08cd4a4f42f5c678a.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/cover/1920x77028958cab82844701949883ea59e6d4c5b18c98da745b4ad2b4b5862de6682c2e.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/appCover/1920x1080appcover82559305b3344195a8182664d9e927a4e6dcab0e5ee3402ab6cb1007c2515fdd.jpg",
+        "sticker": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/sticker/1920x457f829331706404c4eb83fd34554c66b13b5fb58041f1f4a70b7da12cc6a523e07.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873910/verticalBanner/845x1080a81bc87ae2cf4d1cb971e98163933d24c0350f8f87c745038f1e5d0dc6c41ee4.jpg"
+      }
+    },
     "0-1-6z5873883": {
       "id": "0-1-6z5873883",
       "title": "Sundarban Bengal Auto Fc Vs Kopa Tigers Birbhum - Preview",
@@ -90,6 +261,5 @@
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z5873861/verticalBanner/845x10804b93e5600a724c58846618e34668d92994f98ff0b2e74b949a6bc010d50ea378.jpg"
       }
     }
-  },
-  "status": "Offline / No Matches"
+  }
 }
