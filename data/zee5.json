@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "03:31:41 PM 23-09-2026",
+  "last_updated": "03:45:04 PM 23-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -9,7 +9,7 @@
     "Debugging": "ON",
     "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
-    "REALTIME": "OFF",
+    "REALTIME": "ON",
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "HMAC_PROXY": "OFF",
@@ -43,7 +43,7 @@
       },
       "playback": {
         "hindi": {
-          "playbackUrl": null,
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/UPL-M07_ENG/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
           "playbackDetail": {
             "basicInfo": {
