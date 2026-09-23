@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "08:45:06 PM 23-09-2026",
+  "last_updated": "10:00:02 PM 23-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,6 +16,33 @@
     "ALL_IN_ONE": "OFF"
   },
   "matches": [
+    {
+      "id": "0-1-6z51080255",
+      "title": "DPR Korea Vs Colombia",
+      "description": "Watch DPR Korea Vs Colombia LIVE &amp; Exclusive only on ZEE5. FIFA U-20 Women's World Cup 2026",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium",
+      "releaseDate": "Wednesday, 23 September 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080255/list/1920x1080list2de6ccad91474fbbaab6cbba51eb2f5c2f7b849973c74990b36e7aa4eb96d4d6.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080255/cover/1920x77059ee722fec2a4c4db62b1555ee8c6f4caf2862052dd4469baabd51088d03e458ca20ce5f3e024771a049e1d26972b85f.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080255/appCover/1920x1080appcover9a1f91d7012248149fa865a4fb7241912d1705f424334301b6af4ba5c6bbd733.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080255/verticalBanner/845x108043d39809ed934a72ac8f30f2a34d5a41b988337849b4461aa49a8fc8e8da015c.jpg"
+      },
+      "playback": []
+    },
     {
       "id": "0-1-6z51083166",
       "title": "PH Vs TT",
@@ -49,74 +76,9 @@
           "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M08_ENG/master_360p.m3u8?hdntl=exp=1790260037~acl=%2f*~id=0-1-6z51083166_604ad5e7-70cb-4958-a574-79b38f6ea5a4~data=hdntl,2109038,UPL-M08,ENG,2ee417515f0c398611be141f79501300aa56cf4ad6389558b46c918bb8cda16c~hmac=4e291aff5c8220447922919491fd8c10079c77d4a92048844365d927bb9dd730\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M08_ENG/master_480p.m3u8?hdntl=exp=1790260037~acl=%2f*~id=0-1-6z51083166_604ad5e7-70cb-4958-a574-79b38f6ea5a4~data=hdntl,2109038,UPL-M08,ENG,2ee417515f0c398611be141f79501300aa56cf4ad6389558b46c918bb8cda16c~hmac=4e291aff5c8220447922919491fd8c10079c77d4a92048844365d927bb9dd730\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M08_ENG/master_576P.m3u8?hdntl=exp=1790260037~acl=%2f*~id=0-1-6z51083166_604ad5e7-70cb-4958-a574-79b38f6ea5a4~data=hdntl,2109038,UPL-M08,ENG,2ee417515f0c398611be141f79501300aa56cf4ad6389558b46c918bb8cda16c~hmac=4e291aff5c8220447922919491fd8c10079c77d4a92048844365d927bb9dd730\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M08_ENG/master_720p.m3u8?hdntl=exp=1790260037~acl=%2f*~id=0-1-6z51083166_604ad5e7-70cb-4958-a574-79b38f6ea5a4~data=hdntl,2109038,UPL-M08,ENG,2ee417515f0c398611be141f79501300aa56cf4ad6389558b46c918bb8cda16c~hmac=4e291aff5c8220447922919491fd8c10079c77d4a92048844365d927bb9dd730\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M08_ENG/master_1080p.m3u8?hdntl=exp=1790260037~acl=%2f*~id=0-1-6z51083166_604ad5e7-70cb-4958-a574-79b38f6ea5a4~data=hdntl,2109038,UPL-M08,ENG,2ee417515f0c398611be141f79501300aa56cf4ad6389558b46c918bb8cda16c~hmac=4e291aff5c8220447922919491fd8c10079c77d4a92048844365d927bb9dd730\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/UPL-M08_ENG/master_aud.m3u8?hdntl=exp=1790260037~acl=%2f*~id=0-1-6z51083166_604ad5e7-70cb-4958-a574-79b38f6ea5a4~data=hdntl,2109038,UPL-M08,ENG,2ee417515f0c398611be141f79501300aa56cf4ad6389558b46c918bb8cda16c~hmac=4e291aff5c8220447922919491fd8c10079c77d4a92048844365d927bb9dd730\""
         }
       }
-    },
-    {
-      "id": "0-1-6z51083932",
-      "title": "Brazilian Football Legends Vs Indian All-Stars",
-      "description": "Watch Brazilian Football Legends Vs Indian All-Stars LIVE &amp; Exclusive only on ZEE5.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "advertisement_downloadable",
-      "releaseDate": "Wednesday, 23 September 2026",
-      "languages": [
-        "english",
-        "malayalam"
-      ],
-      "audioLanguages": [
-        "en",
-        "ml"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083932/list/1920x1080list9a01b50efcb74f1fb8ceaaed22ccaf7d.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083932/cover/1920x770ee482b5fb72c4827a2fdc225226af604.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083932/appCover/1920x1080appcovercd5fcafef7d344b49ca47d562273eff5.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083932/verticalBanner/845x1080b0686fffc7754e4998b9a65b0372ebb1.jpg"
-      },
-      "playback": {
-        "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/ROTT-2026_ENG/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Thursday 24th of September 2026 07:57:21 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/ROTT-2026_ENG/master_360p.m3u8?hdntl=exp=1790260041~acl=%2f*~id=0-1-6z51083932_52454275-03a6-45c9-bf71-efcae6c9f8f4~data=hdntl,2109037,ROTT-2026,ENG,ba7f591aab8d563e167474bb2a00a1c51399f97b76a384c664ca0f094d27efa3~hmac=b9000abec481623ad49a7775e51f1f2750e4977fd7d3dd3f54c526fa5e0390ba\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/ROTT-2026_ENG/master_480p.m3u8?hdntl=exp=1790260041~acl=%2f*~id=0-1-6z51083932_52454275-03a6-45c9-bf71-efcae6c9f8f4~data=hdntl,2109037,ROTT-2026,ENG,ba7f591aab8d563e167474bb2a00a1c51399f97b76a384c664ca0f094d27efa3~hmac=b9000abec481623ad49a7775e51f1f2750e4977fd7d3dd3f54c526fa5e0390ba\n#EXT-X-STREAM-INF:BANDWIDTH=3304400,AVERAGE-BANDWIDTH=3304400,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/ROTT-2026_ENG/master_576P.m3u8?hdntl=exp=1790260041~acl=%2f*~id=0-1-6z51083932_52454275-03a6-45c9-bf71-efcae6c9f8f4~data=hdntl,2109037,ROTT-2026,ENG,ba7f591aab8d563e167474bb2a00a1c51399f97b76a384c664ca0f094d27efa3~hmac=b9000abec481623ad49a7775e51f1f2750e4977fd7d3dd3f54c526fa5e0390ba\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/ROTT-2026_ENG/master_aud.m3u8?hdntl=exp=1790260041~acl=%2f*~id=0-1-6z51083932_52454275-03a6-45c9-bf71-efcae6c9f8f4~data=hdntl,2109037,ROTT-2026,ENG,ba7f591aab8d563e167474bb2a00a1c51399f97b76a384c664ca0f094d27efa3~hmac=b9000abec481623ad49a7775e51f1f2750e4977fd7d3dd3f54c526fa5e0390ba\""
-        },
-        "malayalam": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109038/ROTT-2026_MAL/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Thursday 24th of September 2026 07:57:26 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/ROTT-2026_MAL/master_360p.m3u8?hdntl=exp=1790260046~acl=%2f*~id=0-1-6z51083932_8c1923f9-5dab-4bbb-866c-93ff772ccc5e~data=hdntl,2109038,ROTT-2026,MAL,bd455b32135ac443322ff9d20af8815909c3cc2a6bbe3ac76a4591ef4d2cb3b1~hmac=ba211d01780a223699dcbdd400e68335e393c15fb854fab382983d57dd713a6c\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/ROTT-2026_MAL/master_480p.m3u8?hdntl=exp=1790260046~acl=%2f*~id=0-1-6z51083932_8c1923f9-5dab-4bbb-866c-93ff772ccc5e~data=hdntl,2109038,ROTT-2026,MAL,bd455b32135ac443322ff9d20af8815909c3cc2a6bbe3ac76a4591ef4d2cb3b1~hmac=ba211d01780a223699dcbdd400e68335e393c15fb854fab382983d57dd713a6c\n#EXT-X-STREAM-INF:BANDWIDTH=3304400,AVERAGE-BANDWIDTH=3304400,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/ROTT-2026_MAL/master_576P.m3u8?hdntl=exp=1790260046~acl=%2f*~id=0-1-6z51083932_8c1923f9-5dab-4bbb-866c-93ff772ccc5e~data=hdntl,2109038,ROTT-2026,MAL,bd455b32135ac443322ff9d20af8815909c3cc2a6bbe3ac76a4591ef4d2cb3b1~hmac=ba211d01780a223699dcbdd400e68335e393c15fb854fab382983d57dd713a6c\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"mal\",NAME=\"Malayalam\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/ROTT-2026_MAL/master_aud.m3u8?hdntl=exp=1790260046~acl=%2f*~id=0-1-6z51083932_8c1923f9-5dab-4bbb-866c-93ff772ccc5e~data=hdntl,2109038,ROTT-2026,MAL,bd455b32135ac443322ff9d20af8815909c3cc2a6bbe3ac76a4591ef4d2cb3b1~hmac=ba211d01780a223699dcbdd400e68335e393c15fb854fab382983d57dd713a6c\""
-        }
-      }
     }
   ],
   "upcoming": {
-    "0-1-6z51083714": {
-      "id": "0-1-6z51083714",
-      "title": "PRK Vs COL | Match Preview",
-      "description": "Coming up - PRK Vs COL compete at the FIFA U-20 WWC, LIVE at 9:45 PM, 23rd September.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Wednesday, 23 September 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083714/list/000000005342472bf014d6a472e92cc0f98b9921e69.jpg"
-      }
-    },
     "0-1-6z51083982": {
       "id": "0-1-6z51083982",
       "title": "Super League Kerala | Starts Sept 25",
