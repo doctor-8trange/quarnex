@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "08:15:06 PM 23-09-2026",
+  "last_updated": "08:45:06 PM 23-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -16,33 +16,6 @@
     "ALL_IN_ONE": "OFF"
   },
   "matches": [
-    {
-      "id": "0-1-6z51080260",
-      "title": "Italy Vs Spain",
-      "description": "Watch Italy Vs Spain LIVE &amp; Exclusive only on ZEE5. FIFA U-20 Women's World Cup 2026",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "premium",
-      "releaseDate": "Wednesday, 23 September 2026",
-      "languages": [
-        "english"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/list/1920x1080list0c5f131ef0624e75b6405a000081bffcc4a3384b909c4fa093a57e2262a2b6cf.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/cover/1920x77067550bccd59a487a93173eff1f00182fd6f113445fcb4082bd68236ee7361f74bdfdf7c7c9914a15b73ed62f50109f68.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/appCover/1920x1080appcover838fd19ebeeb45038eeb19c173522c30de06f44148214771993964d8caaf6d94.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/verticalBanner/845x1080c8de643d9d2b4e4988022f4bad1484357b132a7ad49b40589006e7d005769ec9.jpg"
-      },
-      "playback": []
-    },
     {
       "id": "0-1-6z51083166",
       "title": "PH Vs TT",
