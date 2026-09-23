@@ -1,12 +1,12 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:27:44 PM 23-09-2026",
+  "last_updated": "06:45:05 PM 23-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
     "MULTI_CDN": "ON",
-    "Debugging": "ON",
+    "Debugging": "OFF",
     "SUB_TYPE": "FREEMIUM",
     "RECIVER": "OFF",
     "REALTIME": "OFF",
@@ -15,69 +15,7 @@
     "HMAC_PROXY": "OFF",
     "ALL_IN_ONE": "OFF"
   },
-  "matches": [
-    {
-      "id": "0-1-6z51080260",
-      "title": "Italy Vs Spain",
-      "description": "Watch Italy Vs Spain LIVE &amp; Exclusive only on ZEE5. FIFA U-20 Women's World Cup 2026",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "premium",
-      "releaseDate": "2026-09-23T00:00:00",
-      "languages": [
-        "english"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/list/1920x1080list0c5f131ef0624e75b6405a000081bffcc4a3384b909c4fa093a57e2262a2b6cf.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/cover/1920x77067550bccd59a487a93173eff1f00182fd6f113445fcb4082bd68236ee7361f74bdfdf7c7c9914a15b73ed62f50109f68.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/appCover/1920x1080appcover838fd19ebeeb45038eeb19c173522c30de06f44148214771993964d8caaf6d94.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/verticalBanner/845x1080c8de643d9d2b4e4988022f4bad1484357b132a7ad49b40589006e7d005769ec9.jpg"
-      },
-      "playback": []
-    },
-    {
-      "id": "0-1-6z51083164",
-      "title": "MQW Vs PHW",
-      "description": "Watch Mussoorie Queens Women Vs Pithoragarh Hurricanes Women LIVE & Exclusive only on ZEE5. UPL'26",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "advertisement_downloadable",
-      "releaseDate": "2026-09-23T00:00:00",
-      "languages": [
-        "hindi"
-      ],
-      "audioLanguages": [
-        "hi"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083164/list/1920x1080list05d22975db904860b87d78cc04ef88d2ae619319a4bf4c2482550e5586ce128c.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083164/cover/1920x770c1489381a71c4e75a44d32f96330375779e9413dd4b84e2597ce41888c36a7c731c5afd291934db587675faabc5d5bb0.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083164/appCover/1920x1080appcover399b7236c0844035b1ff168c04f2d5caa2fa5a07185f4e12a7e1a2cf43de8882.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083164/verticalBanner/845x10800a2dfc9400fe4e5285327e8f4a6aedfe6e9d711cbd5a4a0b9e46d1cbae17539e.jpg"
-      },
-      "playback": {
-        "hindi": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/UPL-M07_ENG/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Thursday 24th of September 2026 05:51:32 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M07_ENG/master_360p.m3u8?hdntl=exp=1790252492~acl=%2f*~id=0-1-6z51083164_3904d2a2-7621-4e0c-9c95-d11d0ae2591d~data=hdntl,2109037,UPL-M07,ENG,5f0fb3fab30f45eceb75ee71d2440057c137eef45578e0f9aa30663cfa096752~hmac=ffa55c3bdbba277cf94cbb806bae9dfc931191c62f166f60a53eeb0d71b3ce07\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M07_ENG/master_480p.m3u8?hdntl=exp=1790252492~acl=%2f*~id=0-1-6z51083164_3904d2a2-7621-4e0c-9c95-d11d0ae2591d~data=hdntl,2109037,UPL-M07,ENG,5f0fb3fab30f45eceb75ee71d2440057c137eef45578e0f9aa30663cfa096752~hmac=ffa55c3bdbba277cf94cbb806bae9dfc931191c62f166f60a53eeb0d71b3ce07\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M07_ENG/master_576P.m3u8?hdntl=exp=1790252492~acl=%2f*~id=0-1-6z51083164_3904d2a2-7621-4e0c-9c95-d11d0ae2591d~data=hdntl,2109037,UPL-M07,ENG,5f0fb3fab30f45eceb75ee71d2440057c137eef45578e0f9aa30663cfa096752~hmac=ffa55c3bdbba277cf94cbb806bae9dfc931191c62f166f60a53eeb0d71b3ce07\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M07_ENG/master_720p.m3u8?hdntl=exp=1790252492~acl=%2f*~id=0-1-6z51083164_3904d2a2-7621-4e0c-9c95-d11d0ae2591d~data=hdntl,2109037,UPL-M07,ENG,5f0fb3fab30f45eceb75ee71d2440057c137eef45578e0f9aa30663cfa096752~hmac=ffa55c3bdbba277cf94cbb806bae9dfc931191c62f166f60a53eeb0d71b3ce07\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M07_ENG/master_1080p.m3u8?hdntl=exp=1790252492~acl=%2f*~id=0-1-6z51083164_3904d2a2-7621-4e0c-9c95-d11d0ae2591d~data=hdntl,2109037,UPL-M07,ENG,5f0fb3fab30f45eceb75ee71d2440057c137eef45578e0f9aa30663cfa096752~hmac=ffa55c3bdbba277cf94cbb806bae9dfc931191c62f166f60a53eeb0d71b3ce07\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/UPL-M07_ENG/master_aud.m3u8?hdntl=exp=1790252492~acl=%2f*~id=0-1-6z51083164_3904d2a2-7621-4e0c-9c95-d11d0ae2591d~data=hdntl,2109037,UPL-M07,ENG,5f0fb3fab30f45eceb75ee71d2440057c137eef45578e0f9aa30663cfa096752~hmac=ffa55c3bdbba277cf94cbb806bae9dfc931191c62f166f60a53eeb0d71b3ce07\""
-        }
-      }
-    }
-  ],
+  "matches": [],
   "upcoming": {
     "0-1-6z51083931": {
       "id": "0-1-6z51083931",
@@ -150,5 +88,6 @@
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
       }
     }
-  }
+  },
+  "status": "Offline / No Matches"
 }
