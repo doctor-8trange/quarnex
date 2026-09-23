@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:24:27 PM 23-09-2026",
+  "last_updated": "06:27:44 PM 23-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -101,28 +101,6 @@
         "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083931/list/ImageTitlec4e4f8b9b6a040e882219490b8b83d1d.jpg",
         "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083931/cover/1920x770f9bf933ccd4e428aaed0d61f82914ede.jpg",
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083931/verticalBanner/845x1080nolive2c13090ec1ab49d980a2b82967eb2f34.jpg"
-      }
-    },
-    "0-1-6z51080724": {
-      "id": "0-1-6z51080724",
-      "title": "ITA Vs ESP | Match Preview",
-      "description": "Coming up - ITA Vs ESP compete at the FIFA U-20 WWC, LIVE at 6:15 PM, 23rd September.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "releaseDate": "2026-09-23T00:00:00",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080724/list/0000000053334fb1deda25f42a68bbe945cc2fb43a0.jpg"
       }
     },
     "0-1-6z51083714": {
