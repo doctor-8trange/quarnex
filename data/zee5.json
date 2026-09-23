@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "06:19:40 PM 23-09-2026",
+  "last_updated": "06:24:27 PM 23-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -13,8 +13,7 @@
     "REPLACEMENT": "OFF",
     "FREEPREVIEW": "AUTO",
     "HMAC_PROXY": "OFF",
-    "ALL_IN_ONE": "OFF",
-    "USAGE_GUIDE": []
+    "ALL_IN_ONE": "OFF"
   },
   "matches": [
     {
@@ -28,6 +27,7 @@
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium",
       "releaseDate": "2026-09-23T00:00:00",
       "languages": [
         "english"
@@ -41,15 +41,7 @@
         "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/appCover/1920x1080appcover838fd19ebeeb45038eeb19c173522c30de06f44148214771993964d8caaf6d94.jpg",
         "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51080260/verticalBanner/845x1080c8de643d9d2b4e4988022f4bad1484357b132a7ad49b40589006e7d005769ec9.jpg"
       },
-      "playback": {
-        "english": {
-          "playbackUrl": null,
-          "bkp_playbackUrl": "Coming Soon",
-          "cookie": null,
-          "expire_at": null,
-          "auto_streams": null
-        }
-      }
+      "playback": []
     },
     {
       "id": "0-1-6z51083164",
@@ -62,6 +54,7 @@
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "advertisement_downloadable",
       "releaseDate": "2026-09-23T00:00:00",
       "languages": [
         "hindi"
