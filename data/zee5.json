@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "04:15:05 PM 28-09-2026",
+  "last_updated": "07:15:15 PM 28-09-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -17,9 +17,9 @@
   },
   "matches": [
     {
-      "id": "0-1-6z51083174",
-      "title": "TT Vs RRK",
-      "description": "Watch Tehri Titans Vs Rishikesh River Kings LIVE &amp; Exclusive only on ZEE5. UPL'26",
+      "id": "0-1-6z51083179",
+      "title": "DW Vs USN",
+      "description": "Watch Dehradun Warriors Vs USN Indians LIVE & Exclusive only on ZEE5. UPL'26",
       "genres": [
         {
           "id": "Sports",
@@ -36,17 +36,17 @@
         "hi"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083174/list/1920x1080listcb1c410217a34590a64f1ad4e4c4e5fab8365d40a390466196e655a583a7c5ae.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083174/cover/1920x770b60cbf9eb58a4dbb97ca514668583a28894b889ed2904f5bb14e5c9390f96f3b6bf21d18adf644bf812e58f393f0779a.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083174/appCover/1920x1080appcover61a4c24b8d9146a3bd50de5277ad4f317d7174b980624118aa10cef93380c60e.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083174/verticalBanner/845x1080f0581017e0064bb0bc4066878557c06b045c0d60e4a24de7bdb86233578f5bec.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083179/list/1920x1080list3983428e75fb43738c4ba5175fe5cde651d0a2e709b94f229086977402f37494.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083179/cover/1920x770c0f0d1131d25423ea4ea04395b6e799b86faefec48eb475ab2d97118034d847bf014c544ae354b4d95e4c5e18dd4cb25.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083179/appCover/1920x1080appcover36f98047dce847428623ef698f6738d314d77f66d7a3443893451982f16e8c2e.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083179/verticalBanner/845x108052ead5bc63a2474a8b0960e069d04098fbec9a873ec641b49686a6dcdcdebfd6.jpg"
       },
       "playback": {
         "hindi": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109038/UPL-M22_ENG/master.m3u8",
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/UPL-M23_ENG/master.m3u8",
           "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Tuesday 29th of September 2026 03:00:18 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M22_ENG/master_360p.m3u8?hdntl=exp=1790674218~acl=%2f*~id=0-1-6z51083174_1b5e7f6d-e625-40fa-a2b8-8304a0fddf26~data=hdntl,2109038,UPL-M22,ENG,7b3fad3d36467ce98349f1f5625968af43982c9fcc9e6a27dcf2dbb0d9d4a732~hmac=29e9b9ae76084f3d0a03df658e12d4fc9d81849e2cce586af27c805a7a3da65b\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M22_ENG/master_480p.m3u8?hdntl=exp=1790674218~acl=%2f*~id=0-1-6z51083174_1b5e7f6d-e625-40fa-a2b8-8304a0fddf26~data=hdntl,2109038,UPL-M22,ENG,7b3fad3d36467ce98349f1f5625968af43982c9fcc9e6a27dcf2dbb0d9d4a732~hmac=29e9b9ae76084f3d0a03df658e12d4fc9d81849e2cce586af27c805a7a3da65b\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M22_ENG/master_576P.m3u8?hdntl=exp=1790674218~acl=%2f*~id=0-1-6z51083174_1b5e7f6d-e625-40fa-a2b8-8304a0fddf26~data=hdntl,2109038,UPL-M22,ENG,7b3fad3d36467ce98349f1f5625968af43982c9fcc9e6a27dcf2dbb0d9d4a732~hmac=29e9b9ae76084f3d0a03df658e12d4fc9d81849e2cce586af27c805a7a3da65b\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M22_ENG/master_720p.m3u8?hdntl=exp=1790674218~acl=%2f*~id=0-1-6z51083174_1b5e7f6d-e625-40fa-a2b8-8304a0fddf26~data=hdntl,2109038,UPL-M22,ENG,7b3fad3d36467ce98349f1f5625968af43982c9fcc9e6a27dcf2dbb0d9d4a732~hmac=29e9b9ae76084f3d0a03df658e12d4fc9d81849e2cce586af27c805a7a3da65b\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/UPL-M22_ENG/master_1080p.m3u8?hdntl=exp=1790674218~acl=%2f*~id=0-1-6z51083174_1b5e7f6d-e625-40fa-a2b8-8304a0fddf26~data=hdntl,2109038,UPL-M22,ENG,7b3fad3d36467ce98349f1f5625968af43982c9fcc9e6a27dcf2dbb0d9d4a732~hmac=29e9b9ae76084f3d0a03df658e12d4fc9d81849e2cce586af27c805a7a3da65b\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/UPL-M22_ENG/master_aud.m3u8?hdntl=exp=1790674218~acl=%2f*~id=0-1-6z51083174_1b5e7f6d-e625-40fa-a2b8-8304a0fddf26~data=hdntl,2109038,UPL-M22,ENG,7b3fad3d36467ce98349f1f5625968af43982c9fcc9e6a27dcf2dbb0d9d4a732~hmac=29e9b9ae76084f3d0a03df658e12d4fc9d81849e2cce586af27c805a7a3da65b\""
+          "expire_at": "Tuesday 29th of September 2026 07:15:14 PM",
+          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M23_ENG/master_360p.m3u8?hdntl=exp=1790689514~acl=%2f*~id=0-1-6z51083179_64ee2d05-de8e-48fc-9d7d-6226df063820~data=hdntl,2109037,UPL-M23,ENG,7949a2951c70ae555f58d637bdce652b66dca1772e0ca6e0e8a3a2cabb794eca~hmac=7083f081910a9a8dac27f7101af5acbb3b2ca985e4ecb20380a56f9a491fd501\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M23_ENG/master_480p.m3u8?hdntl=exp=1790689514~acl=%2f*~id=0-1-6z51083179_64ee2d05-de8e-48fc-9d7d-6226df063820~data=hdntl,2109037,UPL-M23,ENG,7949a2951c70ae555f58d637bdce652b66dca1772e0ca6e0e8a3a2cabb794eca~hmac=7083f081910a9a8dac27f7101af5acbb3b2ca985e4ecb20380a56f9a491fd501\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M23_ENG/master_576P.m3u8?hdntl=exp=1790689514~acl=%2f*~id=0-1-6z51083179_64ee2d05-de8e-48fc-9d7d-6226df063820~data=hdntl,2109037,UPL-M23,ENG,7949a2951c70ae555f58d637bdce652b66dca1772e0ca6e0e8a3a2cabb794eca~hmac=7083f081910a9a8dac27f7101af5acbb3b2ca985e4ecb20380a56f9a491fd501\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M23_ENG/master_720p.m3u8?hdntl=exp=1790689514~acl=%2f*~id=0-1-6z51083179_64ee2d05-de8e-48fc-9d7d-6226df063820~data=hdntl,2109037,UPL-M23,ENG,7949a2951c70ae555f58d637bdce652b66dca1772e0ca6e0e8a3a2cabb794eca~hmac=7083f081910a9a8dac27f7101af5acbb3b2ca985e4ecb20380a56f9a491fd501\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/UPL-M23_ENG/master_1080p.m3u8?hdntl=exp=1790689514~acl=%2f*~id=0-1-6z51083179_64ee2d05-de8e-48fc-9d7d-6226df063820~data=hdntl,2109037,UPL-M23,ENG,7949a2951c70ae555f58d637bdce652b66dca1772e0ca6e0e8a3a2cabb794eca~hmac=7083f081910a9a8dac27f7101af5acbb3b2ca985e4ecb20380a56f9a491fd501\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/UPL-M23_ENG/master_aud.m3u8?hdntl=exp=1790689514~acl=%2f*~id=0-1-6z51083179_64ee2d05-de8e-48fc-9d7d-6226df063820~data=hdntl,2109037,UPL-M23,ENG,7949a2951c70ae555f58d637bdce652b66dca1772e0ca6e0e8a3a2cabb794eca~hmac=7083f081910a9a8dac27f7101af5acbb3b2ca985e4ecb20380a56f9a491fd501\""
         }
       }
     }
