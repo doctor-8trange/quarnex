@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "08:45:03 PM 11-10-2026",
+  "last_updated": "09:15:04 PM 11-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -59,41 +59,6 @@
       }
     },
     {
-      "id": "0-1-6z51091975",
-      "title": "KOE Vs BMG",
-      "description": "Watch 1. FC Köln Vs Borussia Mönchengladbach LIVE & Exclusive only on ZEE5. Bundesliga 2026-2027",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "premium_downloadable",
-      "releaseDate": "Sunday, 11 October 2026",
-      "languages": [
-        "english"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091975/list/1920x1080list5144f4de57384d02b771ca36e11b845056cdf2d37907483499054b165f39cc59.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091975/cover/1920x770ba570cff81ce45a7951c90cf14b622221d71ac2ad740407d994175dba9fc3c05802dd899a2234c809419753010246dd9.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091975/appCover/1920x1080appcover0e87a8fe854e432c99ec024fa150e60c2943342b91bd4acdb427918aea421341.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091975/verticalBanner/845x108040840ee9b51f4f17aa75088e1e55c5e82768d8abc5fb4256a62b8270c8b0cae0.jpg"
-      },
-      "playback": {
-        "english": {
-          "playbackUrl": "",
-          "bkp_playbackUrl": "Coming Soon",
-          "cookie": "",
-          "expire_at": "",
-          "auto_streams": null
-        }
-      }
-    },
-    {
       "id": "0-1-6z51091948",
       "title": "SCF Vs S04",
       "description": "Watch Sport-Club Freiburg Vs FC Schalke 04 LIVE & Exclusive only on ZEE5. Bundesliga 2026-2027",
@@ -127,13 +92,11 @@
           "auto_streams": null
         }
       }
-    }
-  ],
-  "upcoming": {
-    "0-1-6z51092635": {
-      "id": "0-1-6z51092635",
-      "title": "SAS Vs MIL | Match Preview",
-      "description": "Coming up - SAS Vs MIL compete at the Serie A, LIVE at 9:30 PM, 11th October.",
+    },
+    {
+      "id": "0-1-6z51091838",
+      "title": "Sassuolo Vs Milan",
+      "description": "Watch Sassuolo Vs Milan LIVE & Exclusive only on ZEE5. Serie A 2026-27",
       "genres": [
         {
           "id": "Sports",
@@ -141,18 +104,32 @@
         }
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Wednesday, 7 October 2026",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Sunday, 11 October 2026",
       "languages": [
-        "en"
+        "english"
       ],
       "audioLanguages": [
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51092635/list/0000000050640cf3434a24188b84cb6354b6c9c2b.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091838/list/1920x1080list6299b63264b94220b0ab1d4fac8371bfc88b0198f71041658922726eebc1f202.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091838/cover/1920x7701da95101112446f9a324df8e1e765d47c484472604e045648d918cfd73802e64acd6b74354b7464aaf404577429ad270.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091838/appCover/1920x1080appcoverd034e5a97b03483188cf7af4d58e12a6dafc55069b3e4c7ebf6b814fc2e481a8.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091838/verticalBanner/845x108062c3a580d22d4873baf15bf6a651a8460126e8215372416599bc7d3487b6a552.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
       }
-    },
+    }
+  ],
+  "upcoming": {
     "0-1-6z51083982": {
       "id": "0-1-6z51083982",
       "title": "Super League Kerala | Season 3",
