@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:30:05 PM 16-10-2026",
+  "last_updated": "09:45:06 PM 16-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -15,11 +15,12 @@
     "HMAC_PROXY": "OFF",
     "ALL_IN_ONE": "OFF"
   },
-  "matches": [
-    {
-      "id": "0-1-6z51084005",
-      "title": "FKFC Vs TKFC",
-      "description": "Watch Forca Kochi FC Vs Thiruvananthapuram Kombans FC LIVE and Exclusive only on ZEE5. Super League Kerala 2026",
+  "matches": [],
+  "upcoming": {
+    "0-1-6z51095527": {
+      "id": "0-1-6z51095527",
+      "title": "FCB Vs RBL | Match Preview",
+      "description": "Coming up - FCB Vs RBL&nbsp;compete at the Bundesliga, LIVE at 10:00 PM, 17th October.",
       "genres": [
         {
           "id": "Sports",
@@ -28,40 +29,112 @@
       ],
       "contentOwner": "Zee Entertainment Enterprises Limited",
       "businessType": "free",
-      "releaseDate": "Friday, 16 October 2026",
+      "releaseDate": "Saturday, 17 October 2026",
       "languages": [
-        "english",
-        "malayalam"
+        "en"
       ],
       "audioLanguages": [
-        "en",
-        "ml"
+        "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084005/list/1920x1080list1b8e96cee8614a83b2632ff4e9ce0a13cc1ed25845a94890bd067cc2d248b22e.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084005/cover/1920x770f98dc1c3c1bc42c38fbbdeb2b36d30cf3b83ce716d014fdb9e99aefd59654554c9956ab9c5434c92b2c63ffe801d9e9c.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084005/appCover/1920x1080appcoveraa2207b177d145a8a03894dc10197706664e1bae57334eb19d31a9484a7a03cd.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084005/verticalBanner/845x10803606e3fdbccc40d8bbcd9a3b7f062d467468ac5fb7e543a2868b6e9a9d9036fd.jpg",
-        "tvBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084005/tvBanner/3840x2160tvbannerb11483edaa1449c0b05b90b12500b1d26cd0b770bae046c5822128f0938df3b8.jpg",
-        "twoXThreeHdPortrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084005/twoXThreeHdPortrait/2000x3000046d41e1063d4b2e9c9a550237d901a6b6308b72e7754dc0a69adfbf5689dc93.jpg",
-        "homeHeroBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084005/homeHeroBanner/2000x3000hero5af0c3d6ac534dc38c11802eecc12d090752fc2cfced4e9d93d9c47d291ee836.jpg",
-        "portrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084005/portrait/2000x3000d1858d62331845adb0c4c8e3ebaf5244.jpg"
-      },
-      "playback": {
-        "english": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-161026_ENG/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Saturday 17th of October 2026 08:00:45 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-161026_ENG/master_360p.m3u8?hdntl=exp=1792247445~acl=%2f*~id=0-1-6z51084005_Z5X_2b73e5f4812058d84b0ca0303c7706e13311708ca7a2885a90730c9bac70a4a5~data=hdntl,2109037,SLK-M01-161026,ENG,c3be710c3d25c5ae08f4d13ebd14ae724b8432c9c19287a7ba54564bd025ff7d~hmac=464bd3a9bb111ef1458057ff85055dc4357d5ce54824abeea7940bb4eb497ed3\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-161026_ENG/master_480p.m3u8?hdntl=exp=1792247445~acl=%2f*~id=0-1-6z51084005_Z5X_2b73e5f4812058d84b0ca0303c7706e13311708ca7a2885a90730c9bac70a4a5~data=hdntl,2109037,SLK-M01-161026,ENG,c3be710c3d25c5ae08f4d13ebd14ae724b8432c9c19287a7ba54564bd025ff7d~hmac=464bd3a9bb111ef1458057ff85055dc4357d5ce54824abeea7940bb4eb497ed3\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-161026_ENG/master_576P.m3u8?hdntl=exp=1792247445~acl=%2f*~id=0-1-6z51084005_Z5X_2b73e5f4812058d84b0ca0303c7706e13311708ca7a2885a90730c9bac70a4a5~data=hdntl,2109037,SLK-M01-161026,ENG,c3be710c3d25c5ae08f4d13ebd14ae724b8432c9c19287a7ba54564bd025ff7d~hmac=464bd3a9bb111ef1458057ff85055dc4357d5ce54824abeea7940bb4eb497ed3\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-161026_ENG/master_720p.m3u8?hdntl=exp=1792247445~acl=%2f*~id=0-1-6z51084005_Z5X_2b73e5f4812058d84b0ca0303c7706e13311708ca7a2885a90730c9bac70a4a5~data=hdntl,2109037,SLK-M01-161026,ENG,c3be710c3d25c5ae08f4d13ebd14ae724b8432c9c19287a7ba54564bd025ff7d~hmac=464bd3a9bb111ef1458057ff85055dc4357d5ce54824abeea7940bb4eb497ed3\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-161026_ENG/master_1080p.m3u8?hdntl=exp=1792247445~acl=%2f*~id=0-1-6z51084005_Z5X_2b73e5f4812058d84b0ca0303c7706e13311708ca7a2885a90730c9bac70a4a5~data=hdntl,2109037,SLK-M01-161026,ENG,c3be710c3d25c5ae08f4d13ebd14ae724b8432c9c19287a7ba54564bd025ff7d~hmac=464bd3a9bb111ef1458057ff85055dc4357d5ce54824abeea7940bb4eb497ed3\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-161026_ENG/master_aud.m3u8?hdntl=exp=1792247445~acl=%2f*~id=0-1-6z51084005_Z5X_2b73e5f4812058d84b0ca0303c7706e13311708ca7a2885a90730c9bac70a4a5~data=hdntl,2109037,SLK-M01-161026,ENG,c3be710c3d25c5ae08f4d13ebd14ae724b8432c9c19287a7ba54564bd025ff7d~hmac=464bd3a9bb111ef1458057ff85055dc4357d5ce54824abeea7940bb4eb497ed3\""
-        },
-        "malayalam": {
-          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-161026_MAL/master.m3u8",
-          "bkp_playbackUrl": "Coming Soon",
-          "expire_at": "Saturday 17th of October 2026 08:00:46 PM",
-          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-161026_MAL/master_360p.m3u8?hdntl=exp=1792247446~acl=%2f*~id=0-1-6z51084005_Z5X_ea94463f67e117f78d5cb2f60300e803784a2343f16f47f484e2c3c643991bac~data=hdntl,2109038,SLK-M01-161026,MAL,70874611a25eeb0b0c657cd30c4d4898047b4b412282233c7380249ee86e7329~hmac=cb7cb05af0da697585b9c7e33fb82e4e6a97bdbd13d080788e6c25eafa8f8b65\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-161026_MAL/master_480p.m3u8?hdntl=exp=1792247446~acl=%2f*~id=0-1-6z51084005_Z5X_ea94463f67e117f78d5cb2f60300e803784a2343f16f47f484e2c3c643991bac~data=hdntl,2109038,SLK-M01-161026,MAL,70874611a25eeb0b0c657cd30c4d4898047b4b412282233c7380249ee86e7329~hmac=cb7cb05af0da697585b9c7e33fb82e4e6a97bdbd13d080788e6c25eafa8f8b65\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-161026_MAL/master_576P.m3u8?hdntl=exp=1792247446~acl=%2f*~id=0-1-6z51084005_Z5X_ea94463f67e117f78d5cb2f60300e803784a2343f16f47f484e2c3c643991bac~data=hdntl,2109038,SLK-M01-161026,MAL,70874611a25eeb0b0c657cd30c4d4898047b4b412282233c7380249ee86e7329~hmac=cb7cb05af0da697585b9c7e33fb82e4e6a97bdbd13d080788e6c25eafa8f8b65\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-161026_MAL/master_720p.m3u8?hdntl=exp=1792247446~acl=%2f*~id=0-1-6z51084005_Z5X_ea94463f67e117f78d5cb2f60300e803784a2343f16f47f484e2c3c643991bac~data=hdntl,2109038,SLK-M01-161026,MAL,70874611a25eeb0b0c657cd30c4d4898047b4b412282233c7380249ee86e7329~hmac=cb7cb05af0da697585b9c7e33fb82e4e6a97bdbd13d080788e6c25eafa8f8b65\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-161026_MAL/master_1080p.m3u8?hdntl=exp=1792247446~acl=%2f*~id=0-1-6z51084005_Z5X_ea94463f67e117f78d5cb2f60300e803784a2343f16f47f484e2c3c643991bac~data=hdntl,2109038,SLK-M01-161026,MAL,70874611a25eeb0b0c657cd30c4d4898047b4b412282233c7380249ee86e7329~hmac=cb7cb05af0da697585b9c7e33fb82e4e6a97bdbd13d080788e6c25eafa8f8b65\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"mal\",NAME=\"Malayalam\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-161026_MAL/master_aud.m3u8?hdntl=exp=1792247446~acl=%2f*~id=0-1-6z51084005_Z5X_ea94463f67e117f78d5cb2f60300e803784a2343f16f47f484e2c3c643991bac~data=hdntl,2109038,SLK-M01-161026,MAL,70874611a25eeb0b0c657cd30c4d4898047b4b412282233c7380249ee86e7329~hmac=cb7cb05af0da697585b9c7e33fb82e4e6a97bdbd13d080788e6c25eafa8f8b65\""
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095527/list/0000000053579e9f6fceff1404cb35afdfc40ec2a21.jpg"
+      }
+    },
+    "0-1-6z51095532": {
+      "id": "0-1-6z51095532",
+      "title": "BOL Vs INT | Match Preview",
+      "description": "Coming up - BOL Vs INT compete at the Serie A, LIVE at 9:30 PM, 17th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
         }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Saturday, 17 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095532/list/00000000537ed3a77ab9ced41dd96827931a77eb62e.jpg"
+      }
+    },
+    "0-1-6z51095526": {
+      "id": "0-1-6z51095526",
+      "title": "FCU Vs BVB | Match Preview",
+      "description": "Coming up - FCU Vs BVB compete at the Bundesliga, LIVE at 7:00 PM, 17th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Saturday, 17 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095526/list/00000000536aa61a57b0eff4c8c8d1953f794151999.jpg"
+      }
+    },
+    "0-1-6z51095576": {
+      "id": "0-1-6z51095576",
+      "title": "JUV Vs LAZ | Match Preview",
+      "description": "Coming up - JUV Vs LAZ compete at the Serie A, LIVE at 12:15 AM, 19th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Monday, 19 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095576/list/000000005383f35dac70ceb470195c65daee1a45b36.jpg"
+      }
+    },
+    "0-1-6z51083982": {
+      "id": "0-1-6z51083982",
+      "title": "Super League Kerala | Season 3",
+      "description": "Watch World-class football. Super League Kerala live matches every evening 7.30 PM",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Friday, 25 September 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/list/skl1920x1080listd2186857ccf64ae8bb4d0ef9f0a14383.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/cover/skl1920x770covere81d94c348b14db2ab908811187e4ad5.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/appCover/skl1920x1080appcover26b2c02ae60b42d59c97b7b4e6c78fb2.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
       }
     }
-  ],
-  "upcoming": []
+  },
+  "status": "Offline / No Matches"
 }
