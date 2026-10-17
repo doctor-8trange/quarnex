@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:15:04 PM 17-10-2026",
+  "last_updated": "09:30:04 PM 17-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -155,29 +155,6 @@
       ],
       "images": {
         "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095527/list/0000000053579e9f6fceff1404cb35afdfc40ec2a21.jpg"
-      }
-    },
-    "0-1-6z51095532": {
-      "id": "0-1-6z51095532",
-      "title": "BOL Vs INT | Match Preview",
-      "description": "Coming up - BOL Vs INT compete at the Serie A, LIVE at 9:30 PM, 17th October.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Saturday, 17 October 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095532/list/00000000537ed3a77ab9ced41dd96827931a77eb62e.jpg"
       }
     },
     "0-1-6z51095576": {
