@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "09:45:05 PM 17-10-2026",
+  "last_updated": "07:15:10 PM 18-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -15,7 +15,131 @@
     "HMAC_PROXY": "OFF",
     "ALL_IN_ONE": "OFF"
   },
-  "matches": [],
-  "upcoming": [],
-  "status": "Offline / No Matches"
+  "matches": [
+    {
+      "id": "0-1-6z51084009",
+      "title": "KWFC Vs CFC",
+      "description": "Watch Kannur Warriors FC Vs Calicut FC LIVE &amp; Exclusive only on ZEE5. Super League Kerala 2026",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Sunday, 18 October 2026",
+      "languages": [
+        "english",
+        "malayalam"
+      ],
+      "audioLanguages": [
+        "en",
+        "ml"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084009/list/1920x1080list29aa08310a654c44a01276c8366c0b4dc0f8bf73771e4a1889f8eeb69dc63a51.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084009/cover/1920x770081b3e42537d441a9c6b7187ba8503c8639d0fc31411440b902bc00dfd3914169ea3063a43604b769c8eb8fb6a976e2e.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084009/appCover/1920x1080appcover8b3827a987374731af8c3cc53a3ed4eaa9b00aba5d9945af96fbca99d7cbbc7d.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084009/verticalBanner/845x1080a1a41f74a0af4d3aacda6fcc908dccdd263fa8f260db4c99999f0289fdb1b737.jpg",
+        "tvBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084009/tvBanner/3840x2160tvbanner0cfbe41bff4d4b7a84e559aa7defa8e42faebb16bb55440eb55389df7c2900ca.jpg",
+        "twoXThreeHdPortrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084009/twoXThreeHdPortrait/2000x300070f0763608d74a7381e9e34f3166119fd2efac5c33e443a38751d9f3d2616c89.jpg",
+        "homeHeroBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084009/homeHeroBanner/2000x3000hero1c2f9b8779f64c0897c89ef2061e9eeab963f42f27104cd9aef57e0281b46bb6.jpg",
+        "portrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51084009/portrait/2000x3000d50a28b725084be29c88fe9df6cc8106.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-181026_ENG/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "expire_at": "Monday 19th of October 2026 07:15:07 PM",
+          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-181026_ENG/master_360p.m3u8?hdntl=exp=1792417507~acl=%2f*~id=0-1-6z51084009_Z5X_a32f182e5125c7600e67c694c41fc1a846903b25e9f4a98bf50e4bbdbbe9b920~data=hdntl,2109037,SLK-M01-181026,ENG,2dad59fe861ffdb04e27e0ced2d03a207a84e3b80b5df802334548f8063282ad~hmac=4dff153c744bf48e088d39dd5706385a70b1c6b76548d7b120ad4e5d7bc33dd1\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-181026_ENG/master_480p.m3u8?hdntl=exp=1792417507~acl=%2f*~id=0-1-6z51084009_Z5X_a32f182e5125c7600e67c694c41fc1a846903b25e9f4a98bf50e4bbdbbe9b920~data=hdntl,2109037,SLK-M01-181026,ENG,2dad59fe861ffdb04e27e0ced2d03a207a84e3b80b5df802334548f8063282ad~hmac=4dff153c744bf48e088d39dd5706385a70b1c6b76548d7b120ad4e5d7bc33dd1\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-181026_ENG/master_576P.m3u8?hdntl=exp=1792417507~acl=%2f*~id=0-1-6z51084009_Z5X_a32f182e5125c7600e67c694c41fc1a846903b25e9f4a98bf50e4bbdbbe9b920~data=hdntl,2109037,SLK-M01-181026,ENG,2dad59fe861ffdb04e27e0ced2d03a207a84e3b80b5df802334548f8063282ad~hmac=4dff153c744bf48e088d39dd5706385a70b1c6b76548d7b120ad4e5d7bc33dd1\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-181026_ENG/master_720p.m3u8?hdntl=exp=1792417507~acl=%2f*~id=0-1-6z51084009_Z5X_a32f182e5125c7600e67c694c41fc1a846903b25e9f4a98bf50e4bbdbbe9b920~data=hdntl,2109037,SLK-M01-181026,ENG,2dad59fe861ffdb04e27e0ced2d03a207a84e3b80b5df802334548f8063282ad~hmac=4dff153c744bf48e088d39dd5706385a70b1c6b76548d7b120ad4e5d7bc33dd1\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-181026_ENG/master_1080p.m3u8?hdntl=exp=1792417507~acl=%2f*~id=0-1-6z51084009_Z5X_a32f182e5125c7600e67c694c41fc1a846903b25e9f4a98bf50e4bbdbbe9b920~data=hdntl,2109037,SLK-M01-181026,ENG,2dad59fe861ffdb04e27e0ced2d03a207a84e3b80b5df802334548f8063282ad~hmac=4dff153c744bf48e088d39dd5706385a70b1c6b76548d7b120ad4e5d7bc33dd1\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"eng\",NAME=\"English\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109037/SLK-M01-181026_ENG/master_aud.m3u8?hdntl=exp=1792417507~acl=%2f*~id=0-1-6z51084009_Z5X_a32f182e5125c7600e67c694c41fc1a846903b25e9f4a98bf50e4bbdbbe9b920~data=hdntl,2109037,SLK-M01-181026,ENG,2dad59fe861ffdb04e27e0ced2d03a207a84e3b80b5df802334548f8063282ad~hmac=4dff153c744bf48e088d39dd5706385a70b1c6b76548d7b120ad4e5d7bc33dd1\""
+        },
+        "malayalam": {
+          "playbackUrl": "https://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-181026_MAL/master.m3u8",
+          "bkp_playbackUrl": "Coming Soon",
+          "expire_at": "Monday 19th of October 2026 07:15:08 PM",
+          "auto_streams": "#EXTM3U\n#EXT-X-VERSION:4\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:BANDWIDTH=760320,AVERAGE-BANDWIDTH=760320,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=640x360,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-181026_MAL/master_360p.m3u8?hdntl=exp=1792417508~acl=%2f*~id=0-1-6z51084009_Z5X_3c4952cf2c801bf9ae9f4d2dadd11d2faaa6cc87846bdb230fe26ea90a9d0947~data=hdntl,2109038,SLK-M01-181026,MAL,3d8affc748d40dd3551828e72428878ad48a94c55639cacfa096ba3d462006bd~hmac=1439c89a4573c6a8d2d8c86bc9c90cb2014840ab80b40bb2af2cb3502ab4c33c\n#EXT-X-STREAM-INF:BANDWIDTH=1256200,AVERAGE-BANDWIDTH=1256200,CODECS=\"avc1.4d401f,mp4a.40.2\",RESOLUTION=854x480,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-181026_MAL/master_480p.m3u8?hdntl=exp=1792417508~acl=%2f*~id=0-1-6z51084009_Z5X_3c4952cf2c801bf9ae9f4d2dadd11d2faaa6cc87846bdb230fe26ea90a9d0947~data=hdntl,2109038,SLK-M01-181026,MAL,3d8affc748d40dd3551828e72428878ad48a94c55639cacfa096ba3d462006bd~hmac=1439c89a4573c6a8d2d8c86bc9c90cb2014840ab80b40bb2af2cb3502ab4c33c\n#EXT-X-STREAM-INF:BANDWIDTH=1525700,AVERAGE-BANDWIDTH=1525700,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1024x576,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-181026_MAL/master_576P.m3u8?hdntl=exp=1792417508~acl=%2f*~id=0-1-6z51084009_Z5X_3c4952cf2c801bf9ae9f4d2dadd11d2faaa6cc87846bdb230fe26ea90a9d0947~data=hdntl,2109038,SLK-M01-181026,MAL,3d8affc748d40dd3551828e72428878ad48a94c55639cacfa096ba3d462006bd~hmac=1439c89a4573c6a8d2d8c86bc9c90cb2014840ab80b40bb2af2cb3502ab4c33c\n#EXT-X-STREAM-INF:BANDWIDTH=2334200,AVERAGE-BANDWIDTH=2334200,CODECS=\"avc1.4d4029,mp4a.40.2\",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-181026_MAL/master_720p.m3u8?hdntl=exp=1792417508~acl=%2f*~id=0-1-6z51084009_Z5X_3c4952cf2c801bf9ae9f4d2dadd11d2faaa6cc87846bdb230fe26ea90a9d0947~data=hdntl,2109038,SLK-M01-181026,MAL,3d8affc748d40dd3551828e72428878ad48a94c55639cacfa096ba3d462006bd~hmac=1439c89a4573c6a8d2d8c86bc9c90cb2014840ab80b40bb2af2cb3502ab4c33c\n#EXT-X-STREAM-INF:BANDWIDTH=4598000,AVERAGE-BANDWIDTH=4598000,CODECS=\"avc1.640029,mp4a.40.2\",RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO=\"program_audio_0\"\nhttps://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-181026_MAL/master_1080p.m3u8?hdntl=exp=1792417508~acl=%2f*~id=0-1-6z51084009_Z5X_3c4952cf2c801bf9ae9f4d2dadd11d2faaa6cc87846bdb230fe26ea90a9d0947~data=hdntl,2109038,SLK-M01-181026,MAL,3d8affc748d40dd3551828e72428878ad48a94c55639cacfa096ba3d462006bd~hmac=1439c89a4573c6a8d2d8c86bc9c90cb2014840ab80b40bb2af2cb3502ab4c33c\n#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE=\"mal\",NAME=\"Malayalam\",AUTOSELECT=YES,DEFAULT=YES,CHANNELS=\"2\",GROUP-ID=\"program_audio_0\",URI=\"https://falconstream.zee5.com/cmaf/live/2109038/SLK-M01-181026_MAL/master_aud.m3u8?hdntl=exp=1792417508~acl=%2f*~id=0-1-6z51084009_Z5X_3c4952cf2c801bf9ae9f4d2dadd11d2faaa6cc87846bdb230fe26ea90a9d0947~data=hdntl,2109038,SLK-M01-181026,MAL,3d8affc748d40dd3551828e72428878ad48a94c55639cacfa096ba3d462006bd~hmac=1439c89a4573c6a8d2d8c86bc9c90cb2014840ab80b40bb2af2cb3502ab4c33c\""
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091961",
+      "title": "B04 Vs SCF",
+      "description": "Watch Bayer 04 Leverkusen Vs Sport-Club Freiburg LIVE &amp; Exclusive only on ZEE5. Bundesliga 2026-2027",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Sunday, 18 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091961/list/8d9b0d3ab97d44551a1dfab75eef9961a.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091961/cover/1920x77014449c7856394c008aafe8e96adbe90b364ee6fc17a7451f9c780ebbbecd2fd7140f3f165e5c4d2faa71acac213419b0.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091961/appCover/1920x1080appcover0c20d00e584148a1b390cc8edc798429006c1158c369460ea9e54923ccd47ed5.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091961/verticalBanner/845x10805b51fdf3231c442287f358a6f93c52e1996314c3c9514d46ba877531c9418088.jpg",
+        "tvBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091961/tvBanner/3840x2160tvbanner334b4d5054db433da1c27789a3a9c8d6ff391d4b07cb4283ab5925ccc6d743d4.jpg",
+        "twoXThreeHdPortrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091961/twoXThreeHdPortrait/2000x3000150df4939b4f4ee3b55a376dd1ebfbf38cfb1b3324d446ccb472f447b2612065.jpg",
+        "homeHeroBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091961/homeHeroBanner/2000x3000hero3aa71bacd0734f1a9129c8091f1a383aed034ff4a9924d4fb9bc3aa366667541.jpg",
+        "portrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091961/portrait/2000x30006d347bf7e82d4bb0869f6ac751359e91.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    },
+    {
+      "id": "0-1-6z51091878",
+      "title": "FIO Vs COM",
+      "description": "Watch Fiorentina Vs Como LIVE &amp; Exclusive only on ZEE5. Serie A 2026-27",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium_downloadable",
+      "releaseDate": "Sunday, 18 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/list/60d1a6ea1d5004dfa93073cf95aa8b405.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/cover/1920x7705f190ecc2a71426c9905f6863334a9dc41ea251c2ac142cb938f1fcc47cb9240d5efe4b2e82f40b3a188b2aca830e290.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/appCover/1920x1080appcoverf89bf998ea71494bb998fd961ad73e726d83e3e1a91542e2a6bdc66df9cbfce6.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/verticalBanner/845x1080ff003e250b7d49869b24b6446ad84929d258e882d37440668f6481f1a20d4f96.jpg",
+        "tvBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/tvBanner/3840x2160tvbanner52a42acd1b1b4e1580943e88412f59a03754e1b1d3384f77a807b5af12b10269.jpg",
+        "twoXThreeHdPortrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/twoXThreeHdPortrait/2000x30003d35f7a5167b42b5ac4fcccd4665a018c6cdf72278154c068521600c32219d63.jpg",
+        "homeHeroBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/homeHeroBanner/2000x3000herob74fcd867f5f4476a2051d345b796e083598f889be26439c83e99f7412347a8e.jpg",
+        "portrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/portrait/2000x30003c430bf2c2d642969084dc632446f391.jpg"
+      },
+      "playback": {
+        "english": {
+          "playbackUrl": "",
+          "bkp_playbackUrl": "Coming Soon",
+          "cookie": "",
+          "expire_at": "",
+          "auto_streams": null
+        }
+      }
+    }
+  ],
+  "upcoming": []
 }
