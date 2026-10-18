@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "07:15:10 PM 18-10-2026",
+  "last_updated": "08:15:02 PM 18-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -139,7 +139,88 @@
           "auto_streams": null
         }
       }
+    },
+    {
+      "id": "0-1-6z51095760",
+      "title": "CAN Vs BRA",
+      "description": "Watch Canada Vs Brazil LIVE and Exclusive only on ZEE5. FIFA U-17 Women's World Cup Morocco 2026",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "premium",
+      "releaseDate": "Sunday, 18 October 2026",
+      "languages": [
+        "english"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095760/list/1920x1080list6f72c6ff5c094d359b6f2c3c0019167296af7a2b8e8445e3b3c1b9bc5ba02b4e.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095760/cover/1920x770c4f6814e31b24a41a32472ea07ace89a1f909d2b0b20441483ef4e0b12995f26894f300fdc0e4eabb9c020ce50f63389.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095760/appCover/1920x1080appcover8292426f02994b1c96b88bc31c102b9ce4d9bd6ea240424e88322a65753e8647.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095760/verticalBanner/845x1080d79614b340f54fd4bed7551fa5313dda732e8d56f56849fe97e11d5f9514835a.jpg",
+        "tvBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095760/tvBanner/89556318bdc39cbea442291bf11db516ffc29.jpg",
+        "twoXThreeHdPortrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095760/twoXThreeHdPortrait/2000x3000f63bc7cfa48346a7aec67f07b1dbeb463642e3b819ab45708aee8882dfe69f4c.jpg",
+        "homeHeroBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095760/homeHeroBanner/2000x3000heroc006f92322df4a31b19127cc2a2790cd1fbb068e75064473bac896e591b4cba5.jpg",
+        "portrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095760/portrait/895576313632041f642598508f2c089293375.jpg"
+      },
+      "playback": []
     }
   ],
-  "upcoming": []
+  "upcoming": {
+    "0-1-6z51095576": {
+      "id": "0-1-6z51095576",
+      "title": "JUV Vs LAZ | Match Preview",
+      "description": "Coming up - JUV Vs LAZ compete at the Serie A, LIVE at 12:15 AM, 19th October.",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Monday, 19 October 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095576/list/000000005383f35dac70ceb470195c65daee1a45b36.jpg"
+      }
+    },
+    "0-1-6z51083982": {
+      "id": "0-1-6z51083982",
+      "title": "Super League Kerala | Season 3",
+      "description": "Watch World-class football. Super League Kerala live matches every evening 7.30 PM",
+      "genres": [
+        {
+          "id": "Sports",
+          "value": "Sports"
+        }
+      ],
+      "contentOwner": "Zee Entertainment Enterprises Limited",
+      "businessType": "free",
+      "releaseDate": "Friday, 25 September 2026",
+      "languages": [
+        "en"
+      ],
+      "audioLanguages": [
+        "en"
+      ],
+      "images": {
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/list/skl1920x1080listd2186857ccf64ae8bb4d0ef9f0a14383.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/cover/skl1920x770covere81d94c348b14db2ab908811187e4ad5.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/appCover/skl1920x1080appcover26b2c02ae60b42d59c97b7b4e6c78fb2.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
+      }
+    }
+  }
 }
