@@ -1,7 +1,7 @@
 {
   "Author": "DOCTOR STRANGE",
   "name": "ZEE5 Live API",
-  "last_updated": "08:15:02 PM 18-10-2026",
+  "last_updated": "08:45:03 PM 18-10-2026",
   "app_settings": {
     "PROXY": "OFF",
     "state_code": "BR",
@@ -102,9 +102,9 @@
       }
     },
     {
-      "id": "0-1-6z51091878",
-      "title": "FIO Vs COM",
-      "description": "Watch Fiorentina Vs Como LIVE &amp; Exclusive only on ZEE5. Serie A 2026-27",
+      "id": "0-1-6z51091960",
+      "title": "BMG Vs TSG",
+      "description": "Watch Borussia Mönchengladbach Vs TSG Hoffenheim LIVE &amp; Exclusive only on ZEE5. Bundesliga 2026-2027",
       "genres": [
         {
           "id": "Sports",
@@ -121,14 +121,14 @@
         "en"
       ],
       "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/list/60d1a6ea1d5004dfa93073cf95aa8b405.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/cover/1920x7705f190ecc2a71426c9905f6863334a9dc41ea251c2ac142cb938f1fcc47cb9240d5efe4b2e82f40b3a188b2aca830e290.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/appCover/1920x1080appcoverf89bf998ea71494bb998fd961ad73e726d83e3e1a91542e2a6bdc66df9cbfce6.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/verticalBanner/845x1080ff003e250b7d49869b24b6446ad84929d258e882d37440668f6481f1a20d4f96.jpg",
-        "tvBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/tvBanner/3840x2160tvbanner52a42acd1b1b4e1580943e88412f59a03754e1b1d3384f77a807b5af12b10269.jpg",
-        "twoXThreeHdPortrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/twoXThreeHdPortrait/2000x30003d35f7a5167b42b5ac4fcccd4665a018c6cdf72278154c068521600c32219d63.jpg",
-        "homeHeroBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/homeHeroBanner/2000x3000herob74fcd867f5f4476a2051d345b796e083598f889be26439c83e99f7412347a8e.jpg",
-        "portrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091878/portrait/2000x30003c430bf2c2d642969084dc632446f391.jpg"
+        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091960/list/9812597b0f0de4233b5fa2080d28c1bee.jpg",
+        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091960/cover/1920x7705d3eedcdba6645208219e7ef93e2fe093e2013e1807544f5bcb7102ff95f7157503b94c13a8843698f62fa1b3cdca24c.jpg",
+        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091960/appCover/1920x1080appcovere189956c8d6f4372acc1197534f18e8a2d876149ae91414dbfae796f1f616ed8.jpg",
+        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091960/verticalBanner/845x10806b3177233d9d4bac9ec2efea320d1e1c6a2cc78639e642d29a7f0dc6613ae27b.jpg",
+        "tvBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091960/tvBanner/3840x2160tvbannerae7b7e283cb0469eadf475cbb4a00b514eb27a260346418baebfb879e0ccc90e.jpg",
+        "twoXThreeHdPortrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091960/twoXThreeHdPortrait/2000x3000f08983ef7b524269849c9a30d028c6bc163fb671ca2e4bb5a47018f86a5fc4db.jpg",
+        "homeHeroBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091960/homeHeroBanner/2000x3000hero7b6f90a81b0d4b7db1f66da786abb742f32f7373cbcd4a679352a34c9183fcfb.jpg",
+        "portrait": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51091960/portrait/2000x30006868d57fc4f94f199db844340d8a0e02.jpg"
       },
       "playback": {
         "english": {
@@ -172,55 +172,5 @@
       "playback": []
     }
   ],
-  "upcoming": {
-    "0-1-6z51095576": {
-      "id": "0-1-6z51095576",
-      "title": "JUV Vs LAZ | Match Preview",
-      "description": "Coming up - JUV Vs LAZ compete at the Serie A, LIVE at 12:15 AM, 19th October.",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Monday, 19 October 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51095576/list/000000005383f35dac70ceb470195c65daee1a45b36.jpg"
-      }
-    },
-    "0-1-6z51083982": {
-      "id": "0-1-6z51083982",
-      "title": "Super League Kerala | Season 3",
-      "description": "Watch World-class football. Super League Kerala live matches every evening 7.30 PM",
-      "genres": [
-        {
-          "id": "Sports",
-          "value": "Sports"
-        }
-      ],
-      "contentOwner": "Zee Entertainment Enterprises Limited",
-      "businessType": "free",
-      "releaseDate": "Friday, 25 September 2026",
-      "languages": [
-        "en"
-      ],
-      "audioLanguages": [
-        "en"
-      ],
-      "images": {
-        "list": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/list/skl1920x1080listd2186857ccf64ae8bb4d0ef9f0a14383.jpg",
-        "cover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/cover/skl1920x770covere81d94c348b14db2ab908811187e4ad5.jpg",
-        "appCover": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/appCover/skl1920x1080appcover26b2c02ae60b42d59c97b7b4e6c78fb2.jpg",
-        "verticalBanner": "https://akamaividz2.zee5.com/image/upload/resources/0-1-6z51083982/verticalBanner/skl845x1080verticalbannerda819c7d3828436fa2e106627d10db2f.jpg"
-      }
-    }
-  }
+  "upcoming": []
 }
